@@ -1,0 +1,74 @@
+
+%VERSION WITH SYMBOLS
+\begin{table}[t!]
+\begin{center}
+%
+\begin{tabular}{llc}
+  \textbf{Symbol} &\textbf{Name}&\textbf{Definition}\\
+\toprule
+$\TLone$&Top Left 1& $u_1>v_1>0$\\
+\midrule
+$\TRone$&Top Right 1& $v_1>u_1>0$\\
+\midrule
+$\MLone$&Middle Left 1& $v_1<0 \textrm{ and } u_1>0$\\
+\midrule
+$\MRone$&Middle Right 1& $v_1>0 \textrm{ and } u_1<0$\\
+\midrule
+$\Bone$&Bottom 1& $v_1<0 \textrm{ and } u_1<0$\\
+\midrule
+$\ULDone$&Upper Left Diagonal 1 & $\MLone\cup \TLone\cup \TRtwo$\\
+\midrule
+$\URDone$&Upper Right Diagonal 1 & $\MRone \cup \TRone\cup \TLtwo$\\
+\midrule
+$\LLDone$&Lower Left Diagonal 1& $\Bone\cup \MLone$\\
+\midrule
+$\LRDone$&Lower Right Diagonal 1 & $\Bone \cup \MRone$\\
+\midrule
+$\LL$	  &Left Leg				& $\TLone\cup \TRtwo$\\
+\midrule
+$\RL$	  &Right Leg & $\TRone\cup \TLtwo$\\
+\midrule
+$\POD$	  &Pair of Diamonds & $\cup$ all of the above\\
+\bottomrule
+\end{tabular}
+%
+\end{center}
+\caption[]{Some subregions of the pair of diamonds and their labels. All regions except the last two are defined with respect to $D_1$ --- for these there are analogous regions defined with respect to $D_2$. Note that the upper left and right diagonal regions as well as the left and right leg regions extend over both diamonds (as evident in their symbols).}
+\label{tab:pod-regions}
+\end{table}
+
+%VERSION WITH LETTERS:
+\iffalse
+\begin{table}
+\begin{center}
+%
+\begin{tabular}{llc}
+  \textbf{Abbreviation} &\textbf{Name}&\textbf{Definition}\\
+\toprule
+$TL_1$&Top Left 1& $u_1>v_1>0$\\
+\midrule
+$TR_1$&Top Right 1& $v_1>u_1>0$\\
+\midrule
+$L_1$&Middle Left 1& $v_1<0 \textrm{ and } u_1>0$\\
+\midrule
+$R_1$&Middle Right 1& $v_1>0 \textrm{ and } u_1<0$\\
+\midrule
+$B_1$&Bottom 1& $v_1<0 \textrm{ and } u_1<0$\\
+\midrule
+$ULD_1$&Upper Left Diagonal 1 & $L_1\cup TL_1\cup TR_2$\\
+\midrule
+$URD_1$&Upper Right Diagonal 1 & $R_1\cup TR_1\cup TL_2$\\
+\midrule
+$LLD_1$&Lower Left Diagonal 1& $B_1\cup L_1$\\
+\midrule
+$LRD_1$&Lower Right Diagonal 1 & $B_1 \cup R_1$\\
+\bottomrule
+\end{tabular}
+%
+\end{center}
+\caption[.]{
+Regions and their labels as defined for $D_1$. Analogous definitions hold for regions associated with $D_2$. Note that ${\TLDone}$ and $URD_1$ extend over both diamonds.
+}
+\label{tab:pod-regions}
+\end{table}
+\fi
