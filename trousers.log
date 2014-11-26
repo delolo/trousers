@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 NOV 2014 11:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 NOV 2014 13:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -375,7 +375,22 @@ Package breakurl Warning: You are using breakurl while processing via pdflatex.
 (breakurl)                \burl will be just a synonym of \url.
 (breakurl)                 on input line 48.
 
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count127
+\Gm@cntv=\count128
+\c@Gm@tempcnt=\count129
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks26
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
@@ -392,7 +407,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 25.
+Package hyperref Info: Option `colorlinks' set `true' on input line 30.
 
 (/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2014/03/24 3.9k The Babel package
@@ -402,55 +417,44 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 
 (/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2014/03/24 3.9k Babel common definitions
-\babel@savecnt=\count127
-\U@D=\dimen149
+\babel@savecnt=\count130
+\U@D=\dimen157
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip51
-\f@ncyO@elh=\skip52
-\f@ncyO@erh=\skip53
-\f@ncyO@olh=\skip54
-\f@ncyO@orh=\skip55
-\f@ncyO@elf=\skip56
-\f@ncyO@erf=\skip57
-\f@ncyO@olf=\skip58
-\f@ncyO@orf=\skip59
-)
 (./trousers.aux)
 \openout1 = `trousers.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count128
-\scratchdimen=\dimen150
+\scratchcounter=\count131
+\scratchdimen=\dimen158
 \scratchbox=\box32
-\nofMPsegments=\count129
-\nofMParguments=\count130
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count131
-\MPscratchDim=\dimen151
-\MPnumerator=\count132
-\makeMPintoPDFobject=\count133
-\everyMPtoPDFconversion=\toks27
+\nofMPsegments=\count132
+\nofMParguments=\count133
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count134
+\MPscratchDim=\dimen159
+\MPnumerator=\count135
+\makeMPintoPDFobject=\count136
+\everyMPtoPDFconversion=\toks28
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -471,7 +475,7 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring ON on input line 137.
+Package hyperref Info: Link coloring ON on input line 147.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -479,218 +483,205 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count134
+\c@section@level=\count137
 )
-LaTeX Info: Redefining \ref on input line 137.
-LaTeX Info: Redefining \pageref on input line 137.
-LaTeX Info: Redefining \nameref on input line 137.
+LaTeX Info: Redefining \ref on input line 147.
+LaTeX Info: Redefining \pageref on input line 147.
+LaTeX Info: Redefining \nameref on input line 147.
 
 (./trousers.out) (./trousers.out)
 \@outlinefile=\write3
 \openout3 = `trousers.out'.
 
 
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Warning: Citation `leray1953hyperbolic' on page 1 undefined on input line
- 139.
-
-
-LaTeX Warning: Citation `hawking1975large' on page 1 undefined on input line 13
-9.
-
-
-LaTeX Warning: Citation `Avis:1977yn' on page 1 undefined on input line 139.
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 139.
+LaTeX Font Info:    Try loading font information for U+msa on input line 150.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 139.
+LaTeX Font Info:    Try loading font information for U+msb on input line 150.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 139.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 150.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 
-LaTeX Warning: Citation `Geroch:1970uw' on page 1 undefined on input line 139.
+LaTeX Warning: No \author given.
 
 
-LaTeX Warning: Citation `Geroch:1967fs' on page 1 undefined on input line 141.
+LaTeX Warning: Citation `leray1953hyperbolic' on page 1 undefined on input line
+ 151.
 
 
-LaTeX Warning: Citation `Sorkin:1997gi' on page 1 undefined on input line 142.
+LaTeX Warning: Citation `hawking1975large' on page 1 undefined on input line 15
+1.
 
 
-LaTeX Warning: Citation `thorne1993closed' on page 1 undefined on input line 14
-2.
+LaTeX Warning: Citation `Avis:1977yn' on page 1 undefined on input line 151.
 
 
-LaTeX Warning: Citation `Sorkin:1989ea' on page 1 undefined on input line 142.
+LaTeX Warning: Citation `Geroch:1970uw' on page 1 undefined on input line 151.
 
 
-LaTeX Warning: Citation `Dray:1991zz' on page 1 undefined on input line 142.
+Overfull \hbox (5.01726pt too wide) in paragraph at lines 151--152
+[]\OT1/cmr/m/n/12 Global hy-per-bol-i-city is an im-port-ant prop-erty in the u
+sual con-struc-tion of quantum
+ []
 
 
-LaTeX Warning: Citation `Gibbons:2011dh' on page 1 undefined on input line 142.
+LaTeX Warning: Citation `Geroch:1967fs' on page 1 undefined on input line 153.
+
+
+LaTeX Warning: Citation `Sorkin:1997gi' on page 1 undefined on input line 154.
+
+
+LaTeX Warning: Citation `thorne1993closed' on page 1 undefined on input line 15
+4.
+
+
+LaTeX Warning: Citation `Sorkin:1989ea' on page 1 undefined on input line 154.
+
+
+LaTeX Warning: Citation `Dray:1991zz' on page 1 undefined on input line 154.
+
+
+LaTeX Warning: Citation `Gibbons:2011dh' on page 1 undefined on input line 154.
 
 
 
-LaTeX Warning: Citation `Wheeler1957604' on page 1 undefined on input line 145.
+LaTeX Warning: Citation `Wheeler1957604' on page 1 undefined on input line 157.
 
 
 
-LaTeX Warning: Citation `Sorkin:1997gi' on page 1 undefined on input line 145.
+LaTeX Warning: Citation `Sorkin:1997gi' on page 1 undefined on input line 157.
 
 
-LaTeX Warning: Citation `wheeler1955geons' on page 1 undefined on input line 14
-9.
+LaTeX Warning: Citation `wheeler1955geons' on page 1 undefined on input line 16
+1.
 
 
-LaTeX Warning: Citation `Sorkin:1986geons' on page 1 undefined on input line 14
-9.
+LaTeX Warning: Citation `Sorkin:1986geons' on page 1 undefined on input line 16
+1.
 
 
-LaTeX Warning: Citation `Sorkin:1996yt' on page 1 undefined on input line 150.
+LaTeX Warning: Citation `Sorkin:1996yt' on page 1 undefined on input line 162.
 
 
-LaTeX Warning: Citation `Sorkin:1989ea' on page 1 undefined on input line 150.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+LaTeX Warning: Citation `Sorkin:1989ea' on page 1 undefined on input line 162.
 
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<trousers-3d-raw-rast.pdf, id=79, 407.5225pt x 481.8pt>
+<trousers-3d-raw-rast.pdf, id=80, 407.5225pt x 481.8pt>
 File: trousers-3d-raw-rast.pdf Graphic file (type pdf)
 
 <use trousers-3d-raw-rast.pdf>
-Package pdftex.def Info: trousers-3d-raw-rast.pdf used on input line 178.
-(pdftex.def)             Requested size: 155.99762pt x 184.43124pt.
+Package pdftex.def Info: trousers-3d-raw-rast.pdf used on input line 190.
+(pdftex.def)             Requested size: 171.99922pt x 203.34709pt.
 
 
-LaTeX Warning: Citation `Anderson:1986ww' on page 2 undefined on input line 184
+LaTeX Warning: Citation `Anderson:1986ww' on page 2 undefined on input line 196
 .
 
 
-LaTeX Warning: Citation `Copeland:1988tr' on page 2 undefined on input line 184
+LaTeX Warning: Citation `Copeland:1988tr' on page 2 undefined on input line 196
 .
 
+[2]
 
-Overfull \hbox (9.16954pt too wide) in paragraph at lines 184--186
-[]\OT1/cmr/m/n/12 The first work along these lines was car-ried out by An-der-s
-on and DeWitt [\OT1/cmr/bx/n/12 ?\OT1/cmr/m/n/12 ],
- []
+LaTeX Warning: Citation `Dowker:1997hj' on page 3 undefined on input line 199.
 
 
-Overfull \hbox (1.72787pt too wide) in paragraph at lines 184--186
-\OT1/cmr/m/n/12 who stud-ied the quantum the-ory of a free mass-less scalar fie
-ld on the topology-
- []
+LaTeX Warning: Citation `Louko:1995jw' on page 3 undefined on input line 199.
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[2 <./trousers-3d-raw-rast.pdf>]
-
-LaTeX Warning: Citation `Dowker:1997hj' on page 3 undefined on input line 187.
-
-
-LaTeX Warning: Citation `Louko:1995jw' on page 3 undefined on input line 187.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+[3 <./trousers-3d-raw-rast.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 
  []
 
-<trousers-3d-v3.pdf, id=98, 407.5225pt x 481.8pt>
+<trousers-3d-v3.pdf, id=99, 407.5225pt x 481.8pt>
 File: trousers-3d-v3.pdf Graphic file (type pdf)
  <use trousers-3d-v3.pdf>
-Package pdftex.def Info: trousers-3d-v3.pdf used on input line 217.
-(pdftex.def)             Requested size: 171.60095pt x 202.87659pt.
+Package pdftex.def Info: trousers-3d-v3.pdf used on input line 229.
+(pdftex.def)             Requested size: 189.20308pt x 223.68915pt.
 
-<trousers-flattened-labelled-v4.pdf, id=100, 361.35pt x 385.44pt>
+<trousers-flattened-labelled-v4.pdf, id=101, 361.35pt x 385.44pt>
 File: trousers-flattened-labelled-v4.pdf Graphic file (type pdf)
 
 <use trousers-flattened-labelled-v4.pdf>
 Package pdftex.def Info: trousers-flattened-labelled-v4.pdf used on input line 
-222.
-(pdftex.def)             Requested size: 175.49881pt x 187.19695pt.
+234.
+(pdftex.def)             Requested size: 193.50076pt x 206.3995pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
 
  []
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[4]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[5 <./trousers-3d-v3.pdf> <./trousers-flattened-labelled-v4.pdf>]
-<pairofdiamonds-v2.pdf, id=136, 740.7675pt x 352.31625pt>
+[4] [5 <./trousers-3d-v3.pdf> <./trousers-flattened-labelled-v4.pdf>]
+<pairofdiamonds-v2.pdf, id=137, 740.7675pt x 352.31625pt>
 File: pairofdiamonds-v2.pdf Graphic file (type pdf)
 
 <use pairofdiamonds-v2.pdf>
-Package pdftex.def Info: pairofdiamonds-v2.pdf used on input line 252.
-(pdftex.def)             Requested size: 390.0pt x 185.49026pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[6 <./pairofdiamonds-v2.pdf>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[7] <B1symb.pdf, id=165, 20.075pt x 12.045pt>
+Package pdftex.def Info: pairofdiamonds-v2.pdf used on input line 264.
+(pdftex.def)             Requested size: 430.00462pt x 204.5156pt.
+ [6 <./pairofdiamonds-v2.pdf>] [7]
+<B1symb.pdf, id=168, 20.075pt x 12.045pt>
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 310.
+Package pdftex.def Info: B1symb.pdf used on input line 322.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 322.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 310.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 310.
+Package pdftex.def Info: B1symb.pdf used on input line 322.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 310.
+Package pdftex.def Info: B1symb.pdf used on input line 322.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
  (./table-region.tex
-<TL1symb.pdf, id=166, 20.075pt x 12.045pt>
+<TL1symb.pdf, id=169, 20.075pt x 12.045pt>
 File: TL1symb.pdf Graphic file (type pdf)
  <use TL1symb.pdf>
 Package pdftex.def Info: TL1symb.pdf used on input line 9.
@@ -708,7 +699,7 @@ File: TL1symb.pdf Graphic file (type pdf)
  <use TL1symb.pdf>
 Package pdftex.def Info: TL1symb.pdf used on input line 9.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
- <TR1symb.pdf, id=167, 20.075pt x 12.045pt>
+ <TR1symb.pdf, id=170, 20.075pt x 12.045pt>
 File: TR1symb.pdf Graphic file (type pdf)
 
 <use TR1symb.pdf>
@@ -727,7 +718,7 @@ File: TR1symb.pdf Graphic file (type pdf)
 Package pdftex.def Info: TR1symb.pdf used on input line 11.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<ML1symb.pdf, id=168, 20.075pt x 12.045pt>
+<ML1symb.pdf, id=171, 20.075pt x 12.045pt>
 File: ML1symb.pdf Graphic file (type pdf)
  <use ML1symb.pdf>
 Package pdftex.def Info: ML1symb.pdf used on input line 13.
@@ -745,7 +736,7 @@ File: ML1symb.pdf Graphic file (type pdf)
  <use ML1symb.pdf>
 Package pdftex.def Info: ML1symb.pdf used on input line 13.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
- <MR1symb.pdf, id=169, 20.075pt x 12.045pt>
+ <MR1symb.pdf, id=172, 20.075pt x 12.045pt>
 File: MR1symb.pdf Graphic file (type pdf)
 
 <use MR1symb.pdf>
@@ -781,7 +772,7 @@ File: B1symb.pdf Graphic file (type pdf)
 Package pdftex.def Info: B1symb.pdf used on input line 17.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<ULD1symb.pdf, id=170, 20.075pt x 12.045pt>
+<ULD1symb.pdf, id=173, 20.075pt x 12.045pt>
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
 Package pdftex.def Info: ULD1symb.pdf used on input line 19.
@@ -834,7 +825,7 @@ File: TL1symb.pdf Graphic file (type pdf)
 Package pdftex.def Info: TL1symb.pdf used on input line 19.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<TR2symb.pdf, id=171, 20.075pt x 12.045pt>
+<TR2symb.pdf, id=174, 20.075pt x 12.045pt>
 File: TR2symb.pdf Graphic file (type pdf)
  <use TR2symb.pdf>
 Package pdftex.def Info: TR2symb.pdf used on input line 19.
@@ -853,7 +844,7 @@ File: TR2symb.pdf Graphic file (type pdf)
 Package pdftex.def Info: TR2symb.pdf used on input line 19.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<URD1symb.pdf, id=172, 20.075pt x 12.045pt>
+<URD1symb.pdf, id=175, 20.075pt x 12.045pt>
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
 Package pdftex.def Info: URD1symb.pdf used on input line 21.
@@ -906,7 +897,7 @@ File: TR1symb.pdf Graphic file (type pdf)
 Package pdftex.def Info: TR1symb.pdf used on input line 21.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<TL2symb.pdf, id=173, 20.075pt x 12.045pt>
+<TL2symb.pdf, id=176, 20.075pt x 12.045pt>
 File: TL2symb.pdf Graphic file (type pdf)
  <use TL2symb.pdf>
 Package pdftex.def Info: TL2symb.pdf used on input line 21.
@@ -925,7 +916,7 @@ File: TL2symb.pdf Graphic file (type pdf)
 Package pdftex.def Info: TL2symb.pdf used on input line 21.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<LLD1symb.pdf, id=174, 20.075pt x 12.045pt>
+<LLD1symb.pdf, id=177, 20.075pt x 12.045pt>
 File: LLD1symb.pdf Graphic file (type pdf)
  <use LLD1symb.pdf>
 Package pdftex.def Info: LLD1symb.pdf used on input line 23.
@@ -978,7 +969,7 @@ File: ML1symb.pdf Graphic file (type pdf)
 Package pdftex.def Info: ML1symb.pdf used on input line 23.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<LRD1symb.pdf, id=175, 20.075pt x 12.045pt>
+<LRD1symb.pdf, id=178, 20.075pt x 12.045pt>
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
 Package pdftex.def Info: LRD1symb.pdf used on input line 25.
@@ -1031,7 +1022,7 @@ File: MR1symb.pdf Graphic file (type pdf)
 Package pdftex.def Info: MR1symb.pdf used on input line 25.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<LLsymb.pdf, id=176, 20.075pt x 12.045pt>
+<LLsymb.pdf, id=179, 20.075pt x 12.045pt>
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
 Package pdftex.def Info: LLsymb.pdf used on input line 27.
@@ -1083,7 +1074,7 @@ File: TR2symb.pdf Graphic file (type pdf)
  <use TR2symb.pdf>
 Package pdftex.def Info: TR2symb.pdf used on input line 27.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
- <RLsymb.pdf, id=177, 20.075pt x 12.045pt>
+ <RLsymb.pdf, id=180, 20.075pt x 12.045pt>
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
@@ -1136,7 +1127,7 @@ File: TL2symb.pdf Graphic file (type pdf)
 Package pdftex.def Info: TL2symb.pdf used on input line 29.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<PODsymb.pdf, id=178, 20.075pt x 12.045pt>
+<PODsymb.pdf, id=181, 20.075pt x 12.045pt>
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
 Package pdftex.def Info: PODsymb.pdf used on input line 31.
@@ -1155,2173 +1146,2056 @@ File: PODsymb.pdf Graphic file (type pdf)
 Package pdftex.def Info: PODsymb.pdf used on input line 31.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 )
-<gret-on-pod-false.pdf, id=180, 877.2775pt x 406.51875pt>
+<gret-on-pod-false.pdf, id=183, 877.2775pt x 406.51875pt>
 File: gret-on-pod-false.pdf Graphic file (type pdf)
 
 <use gret-on-pod-false.pdf>
-Package pdftex.def Info: gret-on-pod-false.pdf used on input line 328.
-(pdftex.def)             Requested size: 390.0pt x 180.72348pt.
+Package pdftex.def Info: gret-on-pod-false.pdf used on input line 340.
+(pdftex.def)             Requested size: 430.00462pt x 199.26416pt.
+ [8 <./B1symb.pdf>] [9 <./TL1symb.pdf> <./TR1symb.pdf> <./ML1symb.pdf> <./MR1sy
+mb.pdf> <./ULD1symb.pdf> <./TR2symb.pdf> <./URD1symb.pdf> <./TL2symb.pdf> <./LL
+D1symb.pdf> <./LRD1symb.pdf> <./LLsymb.pdf> <./RLsymb.pdf> <./PODsymb.pdf>]
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[8 <./B1symb.pdf>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[9 <./TL1symb.pdf> <./TR1symb.pdf> <./ML1symb.pdf> <./MR1symb.pdf> <./ULD1symb.
-pdf> <./TR2symb.pdf> <./URD1symb.pdf> <./TL2symb.pdf> <./LLD1symb.pdf> <./LRD1s
-ymb.pdf> <./LLsymb.pdf> <./RLsymb.pdf> <./PODsymb.pdf>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[10 <./gret-on-pod-false.pdf>]
-
-LaTeX Warning: Citation `sorkin:stokes' on page 11 undefined on input line 358.
+LaTeX Warning: Citation `sorkin:stokes' on page 10 undefined on input line 370.
 
 
 
-LaTeX Warning: Citation `garcia1998divergence' on page 11 undefined on input li
-ne 358.
+LaTeX Warning: Citation `garcia1998divergence' on page 10 undefined on input li
+ne 370.
 
-LaTeX Font Info:    Try loading font information for U+euf on input line 364.
+LaTeX Font Info:    Try loading font information for U+euf on input line 376.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-)
-Overfull \hbox (6.98717pt too wide) in paragraph at lines 372--373
-\OT1/cmr/m/n/12 We turn to the pair of dia-monds. For ease of nota-tion we de-n
-ote by $\U/euf/m/n/12 B[] []$
- []
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[11]
+) [10 <./gret-on-pod-false.pdf>] [11]
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 383.
+Package pdftex.def Info: B1symb.pdf used on input line 395.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 383.
+Package pdftex.def Info: B1symb.pdf used on input line 395.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 383.
+Package pdftex.def Info: B1symb.pdf used on input line 395.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 383.
+
+<use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 395.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: TL1symb.pdf Graphic file (type pdf)
+ <use TL1symb.pdf>
+Package pdftex.def Info: TL1symb.pdf used on input line 395.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: TL1symb.pdf Graphic file (type pdf)
+ <use TL1symb.pdf>
+Package pdftex.def Info: TL1symb.pdf used on input line 395.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: TL1symb.pdf Graphic file (type pdf)
+ <use TL1symb.pdf>
+Package pdftex.def Info: TL1symb.pdf used on input line 395.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: TL1symb.pdf Graphic file (type pdf)
 
 <use TL1symb.pdf>
-Package pdftex.def Info: TL1symb.pdf used on input line 383.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: TL1symb.pdf Graphic file (type pdf)
- <use TL1symb.pdf>
-Package pdftex.def Info: TL1symb.pdf used on input line 383.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: TL1symb.pdf Graphic file (type pdf)
- <use TL1symb.pdf>
-Package pdftex.def Info: TL1symb.pdf used on input line 383.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
-File: TL1symb.pdf Graphic file (type pdf)
- <use TL1symb.pdf>
-Package pdftex.def Info: TL1symb.pdf used on input line 383.
+Package pdftex.def Info: TL1symb.pdf used on input line 395.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: TR1symb.pdf Graphic file (type pdf)
+ <use TR1symb.pdf>
+Package pdftex.def Info: TR1symb.pdf used on input line 395.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: TR1symb.pdf Graphic file (type pdf)
+ <use TR1symb.pdf>
+Package pdftex.def Info: TR1symb.pdf used on input line 395.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: TR1symb.pdf Graphic file (type pdf)
+ <use TR1symb.pdf>
+Package pdftex.def Info: TR1symb.pdf used on input line 395.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: TR1symb.pdf Graphic file (type pdf)
 
 <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 383.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: TR1symb.pdf Graphic file (type pdf)
- <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 383.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: TR1symb.pdf Graphic file (type pdf)
- <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 383.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
-File: TR1symb.pdf Graphic file (type pdf)
- <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 383.
+Package pdftex.def Info: TR1symb.pdf used on input line 395.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--384
+Underfull \hbox (badness 10000) in paragraph at lines 394--396
 
  []
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[12] <gret-pod-modified.pdf, id=272, 719.68875pt x 333.245pt>
+[12] <gret-pod-modified.pdf, id=277, 719.68875pt x 333.245pt>
 File: gret-pod-modified.pdf Graphic file (type pdf)
 
 <use gret-pod-modified.pdf>
-Package pdftex.def Info: gret-pod-modified.pdf used on input line 411.
-(pdftex.def)             Requested size: 390.0pt x 180.5903pt.
+Package pdftex.def Info: gret-pod-modified.pdf used on input line 423.
+(pdftex.def)             Requested size: 430.00462pt x 199.11461pt.
 File: TR1symb.pdf Graphic file (type pdf)
  <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 412.
+Package pdftex.def Info: TR1symb.pdf used on input line 424.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: TR1symb.pdf Graphic file (type pdf)
  <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 412.
+Package pdftex.def Info: TR1symb.pdf used on input line 424.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: TR1symb.pdf Graphic file (type pdf)
 
 <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 412.
+Package pdftex.def Info: TR1symb.pdf used on input line 424.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: TR1symb.pdf Graphic file (type pdf)
  <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 412.
+Package pdftex.def Info: TR1symb.pdf used on input line 424.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: TR1symb.pdf Graphic file (type pdf)
  <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 412.
+Package pdftex.def Info: TR1symb.pdf used on input line 424.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: TR1symb.pdf Graphic file (type pdf)
  <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 412.
+Package pdftex.def Info: TR1symb.pdf used on input line 424.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: TR1symb.pdf Graphic file (type pdf)
 
 <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 412.
+Package pdftex.def Info: TR1symb.pdf used on input line 424.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: TR1symb.pdf Graphic file (type pdf)
  <use TR1symb.pdf>
-Package pdftex.def Info: TR1symb.pdf used on input line 412.
+Package pdftex.def Info: TR1symb.pdf used on input line 424.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 416.
+Package pdftex.def Info: LLsymb.pdf used on input line 428.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 416.
+Package pdftex.def Info: LLsymb.pdf used on input line 428.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 416.
+Package pdftex.def Info: LLsymb.pdf used on input line 428.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 416.
+Package pdftex.def Info: LLsymb.pdf used on input line 428.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 416.
+Package pdftex.def Info: B1symb.pdf used on input line 428.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 416.
+Package pdftex.def Info: B1symb.pdf used on input line 428.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 416.
+Package pdftex.def Info: B1symb.pdf used on input line 428.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 416.
+Package pdftex.def Info: B1symb.pdf used on input line 428.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
- <B2symb.pdf, id=274, 20.075pt x 12.045pt>
+ <B2symb.pdf, id=279, 20.075pt x 12.045pt>
 File: B2symb.pdf Graphic file (type pdf)
 
 <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 416.
+Package pdftex.def Info: B2symb.pdf used on input line 428.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 416.
+Package pdftex.def Info: B2symb.pdf used on input line 428.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 416.
+Package pdftex.def Info: B2symb.pdf used on input line 428.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 416.
+Package pdftex.def Info: B2symb.pdf used on input line 428.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 416.
+Package pdftex.def Info: LLsymb.pdf used on input line 428.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 416.
+Package pdftex.def Info: LLsymb.pdf used on input line 428.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 416.
+Package pdftex.def Info: LLsymb.pdf used on input line 428.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 416.
+Package pdftex.def Info: LLsymb.pdf used on input line 428.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 418.
+Package pdftex.def Info: LLsymb.pdf used on input line 430.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 418.
+Package pdftex.def Info: LLsymb.pdf used on input line 430.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 418.
+Package pdftex.def Info: LLsymb.pdf used on input line 430.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 418.
+Package pdftex.def Info: LLsymb.pdf used on input line 430.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 418.
+Package pdftex.def Info: B1symb.pdf used on input line 430.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 418.
+Package pdftex.def Info: B1symb.pdf used on input line 430.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 418.
+Package pdftex.def Info: B1symb.pdf used on input line 430.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 418.
+Package pdftex.def Info: B1symb.pdf used on input line 430.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B2symb.pdf Graphic file (type pdf)
 
 <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 418.
+Package pdftex.def Info: B2symb.pdf used on input line 430.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 418.
+Package pdftex.def Info: B2symb.pdf used on input line 430.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 418.
+Package pdftex.def Info: B2symb.pdf used on input line 430.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 418.
+Package pdftex.def Info: B2symb.pdf used on input line 430.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[13 <./B2symb.pdf>]
-File: RLsymb.pdf Graphic file (type pdf)
- <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 420.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: RLsymb.pdf Graphic file (type pdf)
- <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 420.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: RLsymb.pdf Graphic file (type pdf)
- <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 420.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 420.
-(pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-File: RLsymb.pdf Graphic file (type pdf)
- <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 422.
+Package pdftex.def Info: RLsymb.pdf used on input line 432.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 422.
+Package pdftex.def Info: RLsymb.pdf used on input line 432.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 422.
+Package pdftex.def Info: RLsymb.pdf used on input line 432.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: RLsymb.pdf Graphic file (type pdf)
+ <use RLsymb.pdf>
+Package pdftex.def Info: RLsymb.pdf used on input line 432.
+(pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 422.
-(pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 422.
+Package pdftex.def Info: RLsymb.pdf used on input line 434.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 422.
+File: RLsymb.pdf Graphic file (type pdf)
+ <use RLsymb.pdf>
+Package pdftex.def Info: RLsymb.pdf used on input line 434.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 422.
+File: RLsymb.pdf Graphic file (type pdf)
+ <use RLsymb.pdf>
+Package pdftex.def Info: RLsymb.pdf used on input line 434.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: RLsymb.pdf Graphic file (type pdf)
+ <use RLsymb.pdf>
+Package pdftex.def Info: RLsymb.pdf used on input line 434.
+(pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 422.
-(pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-File: B2symb.pdf Graphic file (type pdf)
- <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 422.
+Package pdftex.def Info: B1symb.pdf used on input line 434.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B2symb.pdf Graphic file (type pdf)
- <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 422.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 434.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B2symb.pdf Graphic file (type pdf)
- <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 422.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 434.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 434.
+(pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B2symb.pdf Graphic file (type pdf)
 
 <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 422.
-(pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 424.
+Package pdftex.def Info: B2symb.pdf used on input line 434.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 424.
+File: B2symb.pdf Graphic file (type pdf)
+ <use B2symb.pdf>
+Package pdftex.def Info: B2symb.pdf used on input line 434.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 424.
+File: B2symb.pdf Graphic file (type pdf)
+ <use B2symb.pdf>
+Package pdftex.def Info: B2symb.pdf used on input line 434.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: B2symb.pdf Graphic file (type pdf)
+ <use B2symb.pdf>
+Package pdftex.def Info: B2symb.pdf used on input line 434.
+(pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 424.
-(pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-File: B2symb.pdf Graphic file (type pdf)
- <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 424.
+Package pdftex.def Info: B1symb.pdf used on input line 436.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B2symb.pdf Graphic file (type pdf)
- <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 424.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 436.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B2symb.pdf Graphic file (type pdf)
- <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 424.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 436.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 436.
+(pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B2symb.pdf Graphic file (type pdf)
 
 <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 424.
+Package pdftex.def Info: B2symb.pdf used on input line 436.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: B2symb.pdf Graphic file (type pdf)
+ <use B2symb.pdf>
+Package pdftex.def Info: B2symb.pdf used on input line 436.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: B2symb.pdf Graphic file (type pdf)
+ <use B2symb.pdf>
+Package pdftex.def Info: B2symb.pdf used on input line 436.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: B2symb.pdf Graphic file (type pdf)
+ <use B2symb.pdf>
+Package pdftex.def Info: B2symb.pdf used on input line 436.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[14 <./gret-pod-modified.pdf>]
-<gadv-pod-modified.pdf, id=320, 660.4675pt x 306.14375pt>
+ [13 <./gret-pod-modified.pdf> <./B2symb.pdf>]
+<gadv-pod-modified.pdf, id=317, 660.4675pt x 306.14375pt>
 File: gadv-pod-modified.pdf Graphic file (type pdf)
 
 <use gadv-pod-modified.pdf>
-Package pdftex.def Info: gadv-pod-modified.pdf used on input line 435.
-(pdftex.def)             Requested size: 390.0pt x 180.78206pt.
+Package pdftex.def Info: gadv-pod-modified.pdf used on input line 447.
+(pdftex.def)             Requested size: 430.00462pt x 199.32274pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 436.
+Package pdftex.def Info: B1symb.pdf used on input line 448.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 436.
+Package pdftex.def Info: B1symb.pdf used on input line 448.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 436.
+Package pdftex.def Info: B1symb.pdf used on input line 448.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 436.
+Package pdftex.def Info: B1symb.pdf used on input line 448.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 436.
+Package pdftex.def Info: B1symb.pdf used on input line 448.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 436.
+Package pdftex.def Info: B1symb.pdf used on input line 448.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 436.
+Package pdftex.def Info: B1symb.pdf used on input line 448.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 436.
+Package pdftex.def Info: B1symb.pdf used on input line 448.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[15 <./gadv-pod-modified.pdf>] <NF1symb.pdf, id=348, 20.075pt x 12.045pt>
+ [14] <NF1symb.pdf, id=325, 20.075pt x 12.045pt>
 File: NF1symb.pdf Graphic file (type pdf)
 
 <use NF1symb.pdf>
-Package pdftex.def Info: NF1symb.pdf used on input line 448.
+Package pdftex.def Info: NF1symb.pdf used on input line 460.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: NF1symb.pdf Graphic file (type pdf)
  <use NF1symb.pdf>
-Package pdftex.def Info: NF1symb.pdf used on input line 448.
+Package pdftex.def Info: NF1symb.pdf used on input line 460.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: NF1symb.pdf Graphic file (type pdf)
  <use NF1symb.pdf>
-Package pdftex.def Info: NF1symb.pdf used on input line 448.
+Package pdftex.def Info: NF1symb.pdf used on input line 460.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: NF1symb.pdf Graphic file (type pdf)
  <use NF1symb.pdf>
-Package pdftex.def Info: NF1symb.pdf used on input line 448.
+Package pdftex.def Info: NF1symb.pdf used on input line 460.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 448.
+Package pdftex.def Info: LLsymb.pdf used on input line 460.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 448.
+Package pdftex.def Info: LLsymb.pdf used on input line 460.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 448.
+Package pdftex.def Info: LLsymb.pdf used on input line 460.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 448.
+Package pdftex.def Info: LLsymb.pdf used on input line 460.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 448.
+Package pdftex.def Info: RLsymb.pdf used on input line 460.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 448.
+Package pdftex.def Info: RLsymb.pdf used on input line 460.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 448.
+Package pdftex.def Info: RLsymb.pdf used on input line 460.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 448.
+Package pdftex.def Info: RLsymb.pdf used on input line 460.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<FPU1symb.pdf, id=349, 20.075pt x 12.045pt>
+<FPU1symb.pdf, id=326, 20.075pt x 12.045pt>
 File: FPU1symb.pdf Graphic file (type pdf)
  <use FPU1symb.pdf>
-Package pdftex.def Info: FPU1symb.pdf used on input line 451.
+Package pdftex.def Info: FPU1symb.pdf used on input line 463.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: FPU1symb.pdf Graphic file (type pdf)
 
 <use FPU1symb.pdf>
-Package pdftex.def Info: FPU1symb.pdf used on input line 451.
+Package pdftex.def Info: FPU1symb.pdf used on input line 463.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: FPU1symb.pdf Graphic file (type pdf)
  <use FPU1symb.pdf>
-Package pdftex.def Info: FPU1symb.pdf used on input line 451.
+Package pdftex.def Info: FPU1symb.pdf used on input line 463.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: FPU1symb.pdf Graphic file (type pdf)
  <use FPU1symb.pdf>
-Package pdftex.def Info: FPU1symb.pdf used on input line 451.
+Package pdftex.def Info: FPU1symb.pdf used on input line 463.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 451.
+Package pdftex.def Info: LLsymb.pdf used on input line 463.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 451.
+Package pdftex.def Info: LLsymb.pdf used on input line 463.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 451.
+Package pdftex.def Info: LLsymb.pdf used on input line 463.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 451.
+Package pdftex.def Info: LLsymb.pdf used on input line 463.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 451.
+Package pdftex.def Info: RLsymb.pdf used on input line 463.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 451.
+Package pdftex.def Info: RLsymb.pdf used on input line 463.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 451.
+Package pdftex.def Info: RLsymb.pdf used on input line 463.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 451.
+Package pdftex.def Info: RLsymb.pdf used on input line 463.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<FPU2symb.pdf, id=350, 20.075pt x 12.045pt>
+<FPU2symb.pdf, id=327, 20.075pt x 12.045pt>
 File: FPU2symb.pdf Graphic file (type pdf)
  <use FPU2symb.pdf>
-Package pdftex.def Info: FPU2symb.pdf used on input line 452.
+Package pdftex.def Info: FPU2symb.pdf used on input line 464.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: FPU2symb.pdf Graphic file (type pdf)
 
 <use FPU2symb.pdf>
-Package pdftex.def Info: FPU2symb.pdf used on input line 452.
+Package pdftex.def Info: FPU2symb.pdf used on input line 464.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: FPU2symb.pdf Graphic file (type pdf)
  <use FPU2symb.pdf>
-Package pdftex.def Info: FPU2symb.pdf used on input line 452.
+Package pdftex.def Info: FPU2symb.pdf used on input line 464.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: FPU2symb.pdf Graphic file (type pdf)
  <use FPU2symb.pdf>
-Package pdftex.def Info: FPU2symb.pdf used on input line 452.
+Package pdftex.def Info: FPU2symb.pdf used on input line 464.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 452.
+Package pdftex.def Info: RLsymb.pdf used on input line 464.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 452.
+Package pdftex.def Info: RLsymb.pdf used on input line 464.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 452.
+Package pdftex.def Info: RLsymb.pdf used on input line 464.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 452.
+Package pdftex.def Info: RLsymb.pdf used on input line 464.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 452.
+Package pdftex.def Info: LLsymb.pdf used on input line 464.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 452.
+Package pdftex.def Info: LLsymb.pdf used on input line 464.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 452.
+Package pdftex.def Info: LLsymb.pdf used on input line 464.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 452.
+Package pdftex.def Info: LLsymb.pdf used on input line 464.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[16 <./NF1symb.pdf>] <FPV1symb.pdf, id=360, 20.075pt x 12.045pt>
+ [15 <./gadv-pod-modified.pdf> <./NF1symb.pdf>] <FPV1symb.pdf, id=357, 20.075pt
+ x 12.045pt>
 File: FPV1symb.pdf Graphic file (type pdf)
 
 <use FPV1symb.pdf>
-Package pdftex.def Info: FPV1symb.pdf used on input line 456.
+Package pdftex.def Info: FPV1symb.pdf used on input line 468.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: FPV1symb.pdf Graphic file (type pdf)
  <use FPV1symb.pdf>
-Package pdftex.def Info: FPV1symb.pdf used on input line 456.
+Package pdftex.def Info: FPV1symb.pdf used on input line 468.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: FPV1symb.pdf Graphic file (type pdf)
  <use FPV1symb.pdf>
-Package pdftex.def Info: FPV1symb.pdf used on input line 456.
+Package pdftex.def Info: FPV1symb.pdf used on input line 468.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: FPV1symb.pdf Graphic file (type pdf)
  <use FPV1symb.pdf>
-Package pdftex.def Info: FPV1symb.pdf used on input line 456.
+Package pdftex.def Info: FPV1symb.pdf used on input line 468.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 456.
+Package pdftex.def Info: LLsymb.pdf used on input line 468.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 456.
+Package pdftex.def Info: LLsymb.pdf used on input line 468.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 456.
+Package pdftex.def Info: LLsymb.pdf used on input line 468.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 456.
+Package pdftex.def Info: LLsymb.pdf used on input line 468.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 456.
+Package pdftex.def Info: RLsymb.pdf used on input line 468.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 456.
+Package pdftex.def Info: RLsymb.pdf used on input line 468.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 456.
+Package pdftex.def Info: RLsymb.pdf used on input line 468.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 456.
+Package pdftex.def Info: RLsymb.pdf used on input line 468.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<FPV2symb.pdf, id=361, 20.075pt x 12.045pt>
+<FPV2symb.pdf, id=358, 20.075pt x 12.045pt>
 File: FPV2symb.pdf Graphic file (type pdf)
  <use FPV2symb.pdf>
-Package pdftex.def Info: FPV2symb.pdf used on input line 457.
+Package pdftex.def Info: FPV2symb.pdf used on input line 469.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: FPV2symb.pdf Graphic file (type pdf)
 
 <use FPV2symb.pdf>
-Package pdftex.def Info: FPV2symb.pdf used on input line 457.
+Package pdftex.def Info: FPV2symb.pdf used on input line 469.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: FPV2symb.pdf Graphic file (type pdf)
  <use FPV2symb.pdf>
-Package pdftex.def Info: FPV2symb.pdf used on input line 457.
+Package pdftex.def Info: FPV2symb.pdf used on input line 469.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: FPV2symb.pdf Graphic file (type pdf)
  <use FPV2symb.pdf>
-Package pdftex.def Info: FPV2symb.pdf used on input line 457.
+Package pdftex.def Info: FPV2symb.pdf used on input line 469.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 457.
+Package pdftex.def Info: LLsymb.pdf used on input line 469.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 457.
+Package pdftex.def Info: LLsymb.pdf used on input line 469.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 457.
+Package pdftex.def Info: LLsymb.pdf used on input line 469.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 457.
+Package pdftex.def Info: LLsymb.pdf used on input line 469.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 457.
+Package pdftex.def Info: RLsymb.pdf used on input line 469.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 457.
+Package pdftex.def Info: RLsymb.pdf used on input line 469.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 457.
+Package pdftex.def Info: RLsymb.pdf used on input line 469.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 457.
+Package pdftex.def Info: RLsymb.pdf used on input line 469.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
 
-LaTeX Warning: Citation `Copeland:1988tr' on page 17 undefined on input line 45
-9.
+LaTeX Warning: Citation `Copeland:1988tr' on page 16 undefined on input line 47
+1.
 
-<pj-on-pod.pdf, id=364, 714.67pt x 331.2375pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--472
+
+ []
+
+<pj-on-pod.pdf, id=361, 714.67pt x 331.2375pt>
 File: pj-on-pod.pdf Graphic file (type pdf)
  <use pj-on-pod.pdf>
-Package pdftex.def Info: pj-on-pod.pdf used on input line 469.
-(pdftex.def)             Requested size: 390.0pt x 180.76093pt.
+Package pdftex.def Info: pj-on-pod.pdf used on input line 483.
+(pdftex.def)             Requested size: 430.00462pt x 199.29999pt.
 
 
-LaTeX Warning: Reference `eq:hsusefulrelation' on page 17 undefined on input li
-ne 475.
+LaTeX Warning: Reference `eq:hsusefulrelation' on page 16 undefined on input li
+ne 489.
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[17 <./FPU1symb.pdf> <./FPU2symb.pdf> <./FPV1symb.pdf> <./FPV2symb.pdf>]
+[16 <./FPU1symb.pdf> <./FPU2symb.pdf> <./FPV1symb.pdf> <./FPV2symb.pdf>]
 File: PODsymb.pdf Graphic file (type pdf)
 
 <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 479.
+Package pdftex.def Info: PODsymb.pdf used on input line 493.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 479.
+Package pdftex.def Info: PODsymb.pdf used on input line 493.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 479.
+Package pdftex.def Info: PODsymb.pdf used on input line 493.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 479.
+Package pdftex.def Info: PODsymb.pdf used on input line 493.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: PODsymb.pdf Graphic file (type pdf)
 
 <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 481.
+Package pdftex.def Info: PODsymb.pdf used on input line 495.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 481.
+Package pdftex.def Info: PODsymb.pdf used on input line 495.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 481.
+Package pdftex.def Info: PODsymb.pdf used on input line 495.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 481.
+Package pdftex.def Info: PODsymb.pdf used on input line 495.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<Csymb.pdf, id=381, 20.075pt x 12.045pt>
+<Csymb.pdf, id=378, 20.075pt x 12.045pt>
 File: Csymb.pdf Graphic file (type pdf)
  <use Csymb.pdf>
-Package pdftex.def Info: Csymb.pdf used on input line 481.
+Package pdftex.def Info: Csymb.pdf used on input line 495.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: Csymb.pdf Graphic file (type pdf)
  <use Csymb.pdf>
-Package pdftex.def Info: Csymb.pdf used on input line 481.
+Package pdftex.def Info: Csymb.pdf used on input line 495.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: Csymb.pdf Graphic file (type pdf)
 
 <use Csymb.pdf>
-Package pdftex.def Info: Csymb.pdf used on input line 481.
+Package pdftex.def Info: Csymb.pdf used on input line 495.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: Csymb.pdf Graphic file (type pdf)
  <use Csymb.pdf>
-Package pdftex.def Info: Csymb.pdf used on input line 481.
+Package pdftex.def Info: Csymb.pdf used on input line 495.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 483.
+Package pdftex.def Info: PODsymb.pdf used on input line 497.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 483.
+Package pdftex.def Info: PODsymb.pdf used on input line 497.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
 
 <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 483.
+Package pdftex.def Info: PODsymb.pdf used on input line 497.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 483.
+Package pdftex.def Info: PODsymb.pdf used on input line 497.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 485.
+Package pdftex.def Info: PODsymb.pdf used on input line 499.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 485.
+Package pdftex.def Info: PODsymb.pdf used on input line 499.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
 
 <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 485.
+Package pdftex.def Info: PODsymb.pdf used on input line 499.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 485.
+Package pdftex.def Info: PODsymb.pdf used on input line 499.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 485.
+Package pdftex.def Info: PODsymb.pdf used on input line 499.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 485.
+Package pdftex.def Info: PODsymb.pdf used on input line 499.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
 
 <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 485.
+Package pdftex.def Info: PODsymb.pdf used on input line 499.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 485.
+Package pdftex.def Info: PODsymb.pdf used on input line 499.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<hsnorm-pod.pdf, id=383, 501.875pt x 278.03876pt>
+<hsnorm-pod.pdf, id=380, 501.875pt x 278.03876pt>
 File: hsnorm-pod.pdf Graphic file (type pdf)
  <use hsnorm-pod.pdf>
-Package pdftex.def Info: hsnorm-pod.pdf used on input line 495.
-(pdftex.def)             Requested size: 292.5pt x 162.0517pt.
+Package pdftex.def Info: hsnorm-pod.pdf used on input line 509.
+(pdftex.def)             Requested size: 322.50346pt x 178.6739pt.
+ [17 <./pj-on-pod.pdf> <./Csymb.pdf>]
+
+LaTeX Warning: Reference `chapter:diamond' on page 18 undefined on input line 5
+28.
 
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+LaTeX Warning: Reference `eq:SJfunctions' on page 18 undefined on input line 52
+8.
 
-[18 <./pj-on-pod.pdf> <./Csymb.pdf>]
-
-LaTeX Warning: Reference `chapter:diamond' on page 19 undefined on input line 5
-14.
-
-
-LaTeX Warning: Reference `eq:SJfunctions' on page 19 undefined on input line 51
-4.
-
-
-Overfull \hbox (3.27948pt too wide) in paragraph at lines 514--515
-\OT1/cmr/m/n/12 Since we know the SJ modes for the or-din-ary causal dia-mond f
-rom Chapter [],
- []
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[19 <./hsnorm-pod.pdf>]pdfTeX warning (ext4): destination with the same identif
+[18 <./hsnorm-pod.pdf>]pdfTeX warning (ext4): destination with the same identif
 ier (name{equation.5.21}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.529 \bea
+l.543 \bea
           pdfTeX warning (ext4): destination with the same identifier (name{equ
 ation.5.21}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.529 \bea
+l.543 \bea
           pdfTeX warning (ext4): destination with the same identifier (name{equ
 ation.5.21}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.529 \bea
+l.543 \bea
           pdfTeX warning (ext4): destination with the same identifier (name{equ
 ation.5.21}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.529 \bea
+l.543 \bea
           
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 532.
+Package pdftex.def Info: ULD1symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 532.
+Package pdftex.def Info: ULD1symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 532.
+Package pdftex.def Info: ULD1symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ULD1symb.pdf Graphic file (type pdf)
 
 <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 532.
+Package pdftex.def Info: ULD1symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
- <ULD2symb.pdf, id=438, 20.075pt x 12.045pt>
+ <ULD2symb.pdf, id=434, 20.075pt x 12.045pt>
 File: ULD2symb.pdf Graphic file (type pdf)
 
 <use ULD2symb.pdf>
-Package pdftex.def Info: ULD2symb.pdf used on input line 532.
+Package pdftex.def Info: ULD2symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD2symb.pdf Graphic file (type pdf)
  <use ULD2symb.pdf>
-Package pdftex.def Info: ULD2symb.pdf used on input line 532.
+Package pdftex.def Info: ULD2symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD2symb.pdf Graphic file (type pdf)
  <use ULD2symb.pdf>
-Package pdftex.def Info: ULD2symb.pdf used on input line 532.
+Package pdftex.def Info: ULD2symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ULD2symb.pdf Graphic file (type pdf)
  <use ULD2symb.pdf>
-Package pdftex.def Info: ULD2symb.pdf used on input line 532.
+Package pdftex.def Info: ULD2symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LRD1symb.pdf Graphic file (type pdf)
 
 <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 532.
+Package pdftex.def Info: LRD1symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 532.
+Package pdftex.def Info: LRD1symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 532.
+Package pdftex.def Info: LRD1symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 532.
+Package pdftex.def Info: LRD1symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<LRD2symb.pdf, id=439, 20.075pt x 12.045pt>
+<LRD2symb.pdf, id=435, 20.075pt x 12.045pt>
 File: LRD2symb.pdf Graphic file (type pdf)
  <use LRD2symb.pdf>
-Package pdftex.def Info: LRD2symb.pdf used on input line 532.
+Package pdftex.def Info: LRD2symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LRD2symb.pdf Graphic file (type pdf)
 
 <use LRD2symb.pdf>
-Package pdftex.def Info: LRD2symb.pdf used on input line 532.
+Package pdftex.def Info: LRD2symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LRD2symb.pdf Graphic file (type pdf)
  <use LRD2symb.pdf>
-Package pdftex.def Info: LRD2symb.pdf used on input line 532.
+Package pdftex.def Info: LRD2symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LRD2symb.pdf Graphic file (type pdf)
  <use LRD2symb.pdf>
-Package pdftex.def Info: LRD2symb.pdf used on input line 532.
+Package pdftex.def Info: LRD2symb.pdf used on input line 546.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 536.
+Package pdftex.def Info: URD1symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: URD1symb.pdf Graphic file (type pdf)
 
 <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 536.
+Package pdftex.def Info: URD1symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 536.
+Package pdftex.def Info: URD1symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 536.
+Package pdftex.def Info: URD1symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<URD2symb.pdf, id=440, 20.075pt x 12.045pt>
+<URD2symb.pdf, id=436, 20.075pt x 12.045pt>
 File: URD2symb.pdf Graphic file (type pdf)
  <use URD2symb.pdf>
-Package pdftex.def Info: URD2symb.pdf used on input line 536.
+Package pdftex.def Info: URD2symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: URD2symb.pdf Graphic file (type pdf)
 
 <use URD2symb.pdf>
-Package pdftex.def Info: URD2symb.pdf used on input line 536.
+Package pdftex.def Info: URD2symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: URD2symb.pdf Graphic file (type pdf)
  <use URD2symb.pdf>
-Package pdftex.def Info: URD2symb.pdf used on input line 536.
+Package pdftex.def Info: URD2symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: URD2symb.pdf Graphic file (type pdf)
  <use URD2symb.pdf>
-Package pdftex.def Info: URD2symb.pdf used on input line 536.
+Package pdftex.def Info: URD2symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLD1symb.pdf Graphic file (type pdf)
  <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 536.
+Package pdftex.def Info: LLD1symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLD1symb.pdf Graphic file (type pdf)
 
 <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 536.
+Package pdftex.def Info: LLD1symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLD1symb.pdf Graphic file (type pdf)
  <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 536.
+Package pdftex.def Info: LLD1symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLD1symb.pdf Graphic file (type pdf)
  <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 536.
+Package pdftex.def Info: LLD1symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<LLD2symb.pdf, id=441, 20.075pt x 12.045pt>
+<LLD2symb.pdf, id=437, 20.075pt x 12.045pt>
 File: LLD2symb.pdf Graphic file (type pdf)
  <use LLD2symb.pdf>
-Package pdftex.def Info: LLD2symb.pdf used on input line 536.
+Package pdftex.def Info: LLD2symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLD2symb.pdf Graphic file (type pdf)
 
 <use LLD2symb.pdf>
-Package pdftex.def Info: LLD2symb.pdf used on input line 536.
+Package pdftex.def Info: LLD2symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLD2symb.pdf Graphic file (type pdf)
  <use LLD2symb.pdf>
-Package pdftex.def Info: LLD2symb.pdf used on input line 536.
+Package pdftex.def Info: LLD2symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLD2symb.pdf Graphic file (type pdf)
  <use LLD2symb.pdf>
-Package pdftex.def Info: LLD2symb.pdf used on input line 536.
+Package pdftex.def Info: LLD2symb.pdf used on input line 550.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 538.
+Package pdftex.def Info: ULD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD1symb.pdf Graphic file (type pdf)
 
 <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 538.
+Package pdftex.def Info: ULD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 538.
+Package pdftex.def Info: ULD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 538.
+Package pdftex.def Info: ULD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 538.
+Package pdftex.def Info: LRD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LRD1symb.pdf Graphic file (type pdf)
 
 <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 538.
+Package pdftex.def Info: LRD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 538.
+Package pdftex.def Info: LRD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 538.
+Package pdftex.def Info: LRD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 538.
+Package pdftex.def Info: URD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: URD1symb.pdf Graphic file (type pdf)
 
 <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 538.
+Package pdftex.def Info: URD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 538.
+Package pdftex.def Info: URD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 538.
+Package pdftex.def Info: URD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLD1symb.pdf Graphic file (type pdf)
  <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 538.
+Package pdftex.def Info: LLD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLD1symb.pdf Graphic file (type pdf)
 
 <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 538.
+Package pdftex.def Info: LLD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLD1symb.pdf Graphic file (type pdf)
  <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 538.
+Package pdftex.def Info: LLD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLD1symb.pdf Graphic file (type pdf)
  <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 538.
+Package pdftex.def Info: LLD1symb.pdf used on input line 552.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 540.
+Package pdftex.def Info: PODsymb.pdf used on input line 554.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
 
 <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 540.
+Package pdftex.def Info: PODsymb.pdf used on input line 554.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 540.
+Package pdftex.def Info: PODsymb.pdf used on input line 554.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: PODsymb.pdf Graphic file (type pdf)
  <use PODsymb.pdf>
-Package pdftex.def Info: PODsymb.pdf used on input line 540.
+Package pdftex.def Info: PODsymb.pdf used on input line 554.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 542.
+Package pdftex.def Info: ULD1symb.pdf used on input line 556.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD1symb.pdf Graphic file (type pdf)
 
 <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 542.
+Package pdftex.def Info: ULD1symb.pdf used on input line 556.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 542.
+Package pdftex.def Info: ULD1symb.pdf used on input line 556.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 542.
+Package pdftex.def Info: ULD1symb.pdf used on input line 556.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 544.
+Package pdftex.def Info: ULD1symb.pdf used on input line 558.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD1symb.pdf Graphic file (type pdf)
 
 <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 544.
+Package pdftex.def Info: ULD1symb.pdf used on input line 558.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 544.
+Package pdftex.def Info: ULD1symb.pdf used on input line 558.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 544.
+Package pdftex.def Info: ULD1symb.pdf used on input line 558.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 545.
+Package pdftex.def Info: ULD1symb.pdf used on input line 559.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD1symb.pdf Graphic file (type pdf)
 
 <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 545.
+Package pdftex.def Info: ULD1symb.pdf used on input line 559.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 545.
+Package pdftex.def Info: ULD1symb.pdf used on input line 559.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 545.
+Package pdftex.def Info: ULD1symb.pdf used on input line 559.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 546.
+Package pdftex.def Info: B1symb.pdf used on input line 560.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 546.
+Package pdftex.def Info: B1symb.pdf used on input line 560.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 546.
+Package pdftex.def Info: B1symb.pdf used on input line 560.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 546.
+Package pdftex.def Info: B1symb.pdf used on input line 560.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-<MR2symb.pdf, id=443, 20.075pt x 12.045pt>
+<MR2symb.pdf, id=439, 20.075pt x 12.045pt>
 File: MR2symb.pdf Graphic file (type pdf)
  <use MR2symb.pdf>
-Package pdftex.def Info: MR2symb.pdf used on input line 547.
+Package pdftex.def Info: MR2symb.pdf used on input line 561.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: MR2symb.pdf Graphic file (type pdf)
  <use MR2symb.pdf>
-Package pdftex.def Info: MR2symb.pdf used on input line 547.
+Package pdftex.def Info: MR2symb.pdf used on input line 561.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: MR2symb.pdf Graphic file (type pdf)
 
 <use MR2symb.pdf>
-Package pdftex.def Info: MR2symb.pdf used on input line 547.
+Package pdftex.def Info: MR2symb.pdf used on input line 561.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: MR2symb.pdf Graphic file (type pdf)
  <use MR2symb.pdf>
-Package pdftex.def Info: MR2symb.pdf used on input line 547.
+Package pdftex.def Info: MR2symb.pdf used on input line 561.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 548.
+Package pdftex.def Info: B2symb.pdf used on input line 562.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 548.
+Package pdftex.def Info: B2symb.pdf used on input line 562.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B2symb.pdf Graphic file (type pdf)
 
 <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 548.
+Package pdftex.def Info: B2symb.pdf used on input line 562.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 548.
+Package pdftex.def Info: B2symb.pdf used on input line 562.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 551.
+Package pdftex.def Info: URD1symb.pdf used on input line 565.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 551.
+Package pdftex.def Info: URD1symb.pdf used on input line 565.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: URD1symb.pdf Graphic file (type pdf)
 
 <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 551.
+Package pdftex.def Info: URD1symb.pdf used on input line 565.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 551.
+Package pdftex.def Info: URD1symb.pdf used on input line 565.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[20 <./ULD2symb.pdf> <./LRD2symb.pdf> <./URD2symb.pdf> <./LLD2symb.pdf> <./MR2s
-ymb.pdf>]
+ [19 <./ULD2symb.pdf> <./LRD2symb.pdf> <./URD2symb.pdf> <./LLD2symb.pdf> <./MR2
+symb.pdf>]
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 553.
+Package pdftex.def Info: URD1symb.pdf used on input line 567.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: URD1symb.pdf Graphic file (type pdf)
- <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 553.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: URD1symb.pdf Graphic file (type pdf)
- <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 553.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: URD1symb.pdf Graphic file (type pdf)
 
 <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 553.
+Package pdftex.def Info: URD1symb.pdf used on input line 567.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: URD1symb.pdf Graphic file (type pdf)
+ <use URD1symb.pdf>
+Package pdftex.def Info: URD1symb.pdf used on input line 567.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: URD1symb.pdf Graphic file (type pdf)
+ <use URD1symb.pdf>
+Package pdftex.def Info: URD1symb.pdf used on input line 567.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: URD1symb.pdf Graphic file (type pdf)
  <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 554.
+Package pdftex.def Info: URD1symb.pdf used on input line 568.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: URD1symb.pdf Graphic file (type pdf)
- <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 554.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: URD1symb.pdf Graphic file (type pdf)
- <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 554.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: URD1symb.pdf Graphic file (type pdf)
 
 <use URD1symb.pdf>
-Package pdftex.def Info: URD1symb.pdf used on input line 554.
+Package pdftex.def Info: URD1symb.pdf used on input line 568.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: URD1symb.pdf Graphic file (type pdf)
+ <use URD1symb.pdf>
+Package pdftex.def Info: URD1symb.pdf used on input line 568.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: URD1symb.pdf Graphic file (type pdf)
+ <use URD1symb.pdf>
+Package pdftex.def Info: URD1symb.pdf used on input line 568.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 555.
+Package pdftex.def Info: B1symb.pdf used on input line 569.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 555.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 555.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 555.
+Package pdftex.def Info: B1symb.pdf used on input line 569.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 569.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 569.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
- <ML2symb.pdf, id=462, 20.075pt x 12.045pt>
+
+<ML2symb.pdf, id=459, 20.075pt x 12.045pt>
 File: ML2symb.pdf Graphic file (type pdf)
  <use ML2symb.pdf>
-Package pdftex.def Info: ML2symb.pdf used on input line 556.
+Package pdftex.def Info: ML2symb.pdf used on input line 570.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: ML2symb.pdf Graphic file (type pdf)
+ <use ML2symb.pdf>
+Package pdftex.def Info: ML2symb.pdf used on input line 570.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ML2symb.pdf Graphic file (type pdf)
 
 <use ML2symb.pdf>
-Package pdftex.def Info: ML2symb.pdf used on input line 556.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML2symb.pdf Graphic file (type pdf)
- <use ML2symb.pdf>
-Package pdftex.def Info: ML2symb.pdf used on input line 556.
+Package pdftex.def Info: ML2symb.pdf used on input line 570.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ML2symb.pdf Graphic file (type pdf)
  <use ML2symb.pdf>
-Package pdftex.def Info: ML2symb.pdf used on input line 556.
+Package pdftex.def Info: ML2symb.pdf used on input line 570.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 557.
+Package pdftex.def Info: B2symb.pdf used on input line 571.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: B2symb.pdf Graphic file (type pdf)
+ <use B2symb.pdf>
+Package pdftex.def Info: B2symb.pdf used on input line 571.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B2symb.pdf Graphic file (type pdf)
 
 <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 557.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B2symb.pdf Graphic file (type pdf)
- <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 557.
+Package pdftex.def Info: B2symb.pdf used on input line 571.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 557.
+Package pdftex.def Info: B2symb.pdf used on input line 571.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 562.
+Package pdftex.def Info: LRD1symb.pdf used on input line 576.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LRD1symb.pdf Graphic file (type pdf)
+ <use LRD1symb.pdf>
+Package pdftex.def Info: LRD1symb.pdf used on input line 576.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LRD1symb.pdf Graphic file (type pdf)
 
 <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 562.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LRD1symb.pdf Graphic file (type pdf)
- <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 562.
+Package pdftex.def Info: LRD1symb.pdf used on input line 576.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 562.
+Package pdftex.def Info: LRD1symb.pdf used on input line 576.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 563.
+Package pdftex.def Info: LRD1symb.pdf used on input line 577.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LRD1symb.pdf Graphic file (type pdf)
+ <use LRD1symb.pdf>
+Package pdftex.def Info: LRD1symb.pdf used on input line 577.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LRD1symb.pdf Graphic file (type pdf)
 
 <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 563.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LRD1symb.pdf Graphic file (type pdf)
- <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 563.
+Package pdftex.def Info: LRD1symb.pdf used on input line 577.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 563.
+Package pdftex.def Info: LRD1symb.pdf used on input line 577.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 564.
+Package pdftex.def Info: LLsymb.pdf used on input line 578.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LLsymb.pdf Graphic file (type pdf)
+ <use LLsymb.pdf>
+Package pdftex.def Info: LLsymb.pdf used on input line 578.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 564.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLsymb.pdf Graphic file (type pdf)
- <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 564.
+Package pdftex.def Info: LLsymb.pdf used on input line 578.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 564.
+Package pdftex.def Info: LLsymb.pdf used on input line 578.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 565.
+Package pdftex.def Info: RLsymb.pdf used on input line 579.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: RLsymb.pdf Graphic file (type pdf)
+ <use RLsymb.pdf>
+Package pdftex.def Info: RLsymb.pdf used on input line 579.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 565.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: RLsymb.pdf Graphic file (type pdf)
- <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 565.
+Package pdftex.def Info: RLsymb.pdf used on input line 579.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 565.
+Package pdftex.def Info: RLsymb.pdf used on input line 579.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: ML1symb.pdf Graphic file (type pdf)
  <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 566.
+Package pdftex.def Info: ML1symb.pdf used on input line 580.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: ML1symb.pdf Graphic file (type pdf)
+ <use ML1symb.pdf>
+Package pdftex.def Info: ML1symb.pdf used on input line 580.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ML1symb.pdf Graphic file (type pdf)
 
 <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 566.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML1symb.pdf Graphic file (type pdf)
- <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 566.
+Package pdftex.def Info: ML1symb.pdf used on input line 580.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ML1symb.pdf Graphic file (type pdf)
  <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 566.
+Package pdftex.def Info: ML1symb.pdf used on input line 580.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLD1symb.pdf Graphic file (type pdf)
  <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 571.
+Package pdftex.def Info: LLD1symb.pdf used on input line 585.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LLD1symb.pdf Graphic file (type pdf)
+ <use LLD1symb.pdf>
+Package pdftex.def Info: LLD1symb.pdf used on input line 585.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLD1symb.pdf Graphic file (type pdf)
 
 <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 571.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLD1symb.pdf Graphic file (type pdf)
- <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 571.
+Package pdftex.def Info: LLD1symb.pdf used on input line 585.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLD1symb.pdf Graphic file (type pdf)
  <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 571.
+Package pdftex.def Info: LLD1symb.pdf used on input line 585.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLD1symb.pdf Graphic file (type pdf)
  <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 572.
+Package pdftex.def Info: LLD1symb.pdf used on input line 586.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LLD1symb.pdf Graphic file (type pdf)
+ <use LLD1symb.pdf>
+Package pdftex.def Info: LLD1symb.pdf used on input line 586.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLD1symb.pdf Graphic file (type pdf)
 
 <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 572.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLD1symb.pdf Graphic file (type pdf)
- <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 572.
+Package pdftex.def Info: LLD1symb.pdf used on input line 586.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLD1symb.pdf Graphic file (type pdf)
  <use LLD1symb.pdf>
-Package pdftex.def Info: LLD1symb.pdf used on input line 572.
+Package pdftex.def Info: LLD1symb.pdf used on input line 586.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 573.
+Package pdftex.def Info: RLsymb.pdf used on input line 587.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: RLsymb.pdf Graphic file (type pdf)
+ <use RLsymb.pdf>
+Package pdftex.def Info: RLsymb.pdf used on input line 587.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 573.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: RLsymb.pdf Graphic file (type pdf)
- <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 573.
+Package pdftex.def Info: RLsymb.pdf used on input line 587.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 573.
+Package pdftex.def Info: RLsymb.pdf used on input line 587.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 574.
+Package pdftex.def Info: LLsymb.pdf used on input line 588.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LLsymb.pdf Graphic file (type pdf)
+ <use LLsymb.pdf>
+Package pdftex.def Info: LLsymb.pdf used on input line 588.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 574.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLsymb.pdf Graphic file (type pdf)
- <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 574.
+Package pdftex.def Info: LLsymb.pdf used on input line 588.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 574.
+Package pdftex.def Info: LLsymb.pdf used on input line 588.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: MR1symb.pdf Graphic file (type pdf)
  <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 575.
+Package pdftex.def Info: MR1symb.pdf used on input line 589.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: MR1symb.pdf Graphic file (type pdf)
+ <use MR1symb.pdf>
+Package pdftex.def Info: MR1symb.pdf used on input line 589.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: MR1symb.pdf Graphic file (type pdf)
 
 <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 575.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: MR1symb.pdf Graphic file (type pdf)
- <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 575.
+Package pdftex.def Info: MR1symb.pdf used on input line 589.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: MR1symb.pdf Graphic file (type pdf)
  <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 575.
+Package pdftex.def Info: MR1symb.pdf used on input line 589.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 581.
+Package pdftex.def Info: LRD1symb.pdf used on input line 597.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LRD1symb.pdf Graphic file (type pdf)
+ <use LRD1symb.pdf>
+Package pdftex.def Info: LRD1symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LRD1symb.pdf Graphic file (type pdf)
 
 <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 581.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LRD1symb.pdf Graphic file (type pdf)
- <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 581.
+Package pdftex.def Info: LRD1symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LRD1symb.pdf Graphic file (type pdf)
  <use LRD1symb.pdf>
-Package pdftex.def Info: LRD1symb.pdf used on input line 581.
+Package pdftex.def Info: LRD1symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 581.
+Package pdftex.def Info: ULD1symb.pdf used on input line 597.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: ULD1symb.pdf Graphic file (type pdf)
+ <use ULD1symb.pdf>
+Package pdftex.def Info: ULD1symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD1symb.pdf Graphic file (type pdf)
 
 <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 581.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ULD1symb.pdf Graphic file (type pdf)
- <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 581.
+Package pdftex.def Info: ULD1symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ULD1symb.pdf Graphic file (type pdf)
  <use ULD1symb.pdf>
-Package pdftex.def Info: ULD1symb.pdf used on input line 581.
+Package pdftex.def Info: ULD1symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LRD2symb.pdf Graphic file (type pdf)
  <use LRD2symb.pdf>
-Package pdftex.def Info: LRD2symb.pdf used on input line 581.
+Package pdftex.def Info: LRD2symb.pdf used on input line 597.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LRD2symb.pdf Graphic file (type pdf)
+ <use LRD2symb.pdf>
+Package pdftex.def Info: LRD2symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LRD2symb.pdf Graphic file (type pdf)
 
 <use LRD2symb.pdf>
-Package pdftex.def Info: LRD2symb.pdf used on input line 581.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LRD2symb.pdf Graphic file (type pdf)
- <use LRD2symb.pdf>
-Package pdftex.def Info: LRD2symb.pdf used on input line 581.
+Package pdftex.def Info: LRD2symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LRD2symb.pdf Graphic file (type pdf)
  <use LRD2symb.pdf>
-Package pdftex.def Info: LRD2symb.pdf used on input line 581.
+Package pdftex.def Info: LRD2symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: ULD2symb.pdf Graphic file (type pdf)
  <use ULD2symb.pdf>
-Package pdftex.def Info: ULD2symb.pdf used on input line 581.
+Package pdftex.def Info: ULD2symb.pdf used on input line 597.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: ULD2symb.pdf Graphic file (type pdf)
+ <use ULD2symb.pdf>
+Package pdftex.def Info: ULD2symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ULD2symb.pdf Graphic file (type pdf)
 
 <use ULD2symb.pdf>
-Package pdftex.def Info: ULD2symb.pdf used on input line 581.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ULD2symb.pdf Graphic file (type pdf)
- <use ULD2symb.pdf>
-Package pdftex.def Info: ULD2symb.pdf used on input line 581.
+Package pdftex.def Info: ULD2symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ULD2symb.pdf Graphic file (type pdf)
  <use ULD2symb.pdf>
-Package pdftex.def Info: ULD2symb.pdf used on input line 581.
+Package pdftex.def Info: ULD2symb.pdf used on input line 597.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[21 <./ML2symb.pdf>]
+ [20 <./ML2symb.pdf>]
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 584.
+Package pdftex.def Info: B1symb.pdf used on input line 602.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 584.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 584.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 584.
+Package pdftex.def Info: B1symb.pdf used on input line 602.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 602.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 602.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 586.
+Package pdftex.def Info: B1symb.pdf used on input line 604.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 586.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 586.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 586.
+Package pdftex.def Info: B1symb.pdf used on input line 604.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 604.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 604.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 587.
+Package pdftex.def Info: B1symb.pdf used on input line 605.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 587.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 587.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 587.
+Package pdftex.def Info: B1symb.pdf used on input line 605.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 605.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 605.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 588.
+Package pdftex.def Info: RLsymb.pdf used on input line 606.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: RLsymb.pdf Graphic file (type pdf)
- <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 588.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: RLsymb.pdf Graphic file (type pdf)
- <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 588.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 588.
+Package pdftex.def Info: RLsymb.pdf used on input line 606.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: RLsymb.pdf Graphic file (type pdf)
+ <use RLsymb.pdf>
+Package pdftex.def Info: RLsymb.pdf used on input line 606.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: RLsymb.pdf Graphic file (type pdf)
+ <use RLsymb.pdf>
+Package pdftex.def Info: RLsymb.pdf used on input line 606.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 588.
+Package pdftex.def Info: LLsymb.pdf used on input line 606.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLsymb.pdf Graphic file (type pdf)
- <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 588.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLsymb.pdf Graphic file (type pdf)
- <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 588.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 588.
+Package pdftex.def Info: LLsymb.pdf used on input line 606.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LLsymb.pdf Graphic file (type pdf)
+ <use LLsymb.pdf>
+Package pdftex.def Info: LLsymb.pdf used on input line 606.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: LLsymb.pdf Graphic file (type pdf)
+ <use LLsymb.pdf>
+Package pdftex.def Info: LLsymb.pdf used on input line 606.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: ML1symb.pdf Graphic file (type pdf)
  <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 589.
+Package pdftex.def Info: ML1symb.pdf used on input line 607.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML1symb.pdf Graphic file (type pdf)
- <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 589.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML1symb.pdf Graphic file (type pdf)
- <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 589.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ML1symb.pdf Graphic file (type pdf)
 
 <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 589.
+Package pdftex.def Info: ML1symb.pdf used on input line 607.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: ML1symb.pdf Graphic file (type pdf)
+ <use ML1symb.pdf>
+Package pdftex.def Info: ML1symb.pdf used on input line 607.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: ML1symb.pdf Graphic file (type pdf)
+ <use ML1symb.pdf>
+Package pdftex.def Info: ML1symb.pdf used on input line 607.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: MR1symb.pdf Graphic file (type pdf)
  <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 589.
+Package pdftex.def Info: MR1symb.pdf used on input line 607.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: MR1symb.pdf Graphic file (type pdf)
- <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 589.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: MR1symb.pdf Graphic file (type pdf)
- <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 589.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: MR1symb.pdf Graphic file (type pdf)
 
 <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 589.
+Package pdftex.def Info: MR1symb.pdf used on input line 607.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: MR1symb.pdf Graphic file (type pdf)
+ <use MR1symb.pdf>
+Package pdftex.def Info: MR1symb.pdf used on input line 607.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: MR1symb.pdf Graphic file (type pdf)
+ <use MR1symb.pdf>
+Package pdftex.def Info: MR1symb.pdf used on input line 607.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: ML1symb.pdf Graphic file (type pdf)
  <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 591.
+Package pdftex.def Info: ML1symb.pdf used on input line 609.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML1symb.pdf Graphic file (type pdf)
- <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 591.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML1symb.pdf Graphic file (type pdf)
- <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 591.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ML1symb.pdf Graphic file (type pdf)
 
 <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 591.
+Package pdftex.def Info: ML1symb.pdf used on input line 609.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: ML1symb.pdf Graphic file (type pdf)
+ <use ML1symb.pdf>
+Package pdftex.def Info: ML1symb.pdf used on input line 609.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: ML1symb.pdf Graphic file (type pdf)
+ <use ML1symb.pdf>
+Package pdftex.def Info: ML1symb.pdf used on input line 609.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: MR1symb.pdf Graphic file (type pdf)
  <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 591.
+Package pdftex.def Info: MR1symb.pdf used on input line 609.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: MR1symb.pdf Graphic file (type pdf)
- <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 591.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: MR1symb.pdf Graphic file (type pdf)
- <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 591.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: MR1symb.pdf Graphic file (type pdf)
 
 <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 591.
+Package pdftex.def Info: MR1symb.pdf used on input line 609.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: MR1symb.pdf Graphic file (type pdf)
+ <use MR1symb.pdf>
+Package pdftex.def Info: MR1symb.pdf used on input line 609.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: MR1symb.pdf Graphic file (type pdf)
+ <use MR1symb.pdf>
+Package pdftex.def Info: MR1symb.pdf used on input line 609.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: ML1symb.pdf Graphic file (type pdf)
  <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 593.
+Package pdftex.def Info: ML1symb.pdf used on input line 611.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML1symb.pdf Graphic file (type pdf)
- <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 593.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML1symb.pdf Graphic file (type pdf)
- <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 593.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ML1symb.pdf Graphic file (type pdf)
 
 <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 593.
+Package pdftex.def Info: ML1symb.pdf used on input line 611.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: ML1symb.pdf Graphic file (type pdf)
+ <use ML1symb.pdf>
+Package pdftex.def Info: ML1symb.pdf used on input line 611.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: ML1symb.pdf Graphic file (type pdf)
+ <use ML1symb.pdf>
+Package pdftex.def Info: ML1symb.pdf used on input line 611.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: ML1symb.pdf Graphic file (type pdf)
  <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 594.
+Package pdftex.def Info: ML1symb.pdf used on input line 612.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML1symb.pdf Graphic file (type pdf)
- <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 594.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML1symb.pdf Graphic file (type pdf)
- <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 594.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ML1symb.pdf Graphic file (type pdf)
 
 <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 594.
+Package pdftex.def Info: ML1symb.pdf used on input line 612.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: ML1symb.pdf Graphic file (type pdf)
+ <use ML1symb.pdf>
+Package pdftex.def Info: ML1symb.pdf used on input line 612.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: ML1symb.pdf Graphic file (type pdf)
+ <use ML1symb.pdf>
+Package pdftex.def Info: ML1symb.pdf used on input line 612.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 594.
+Package pdftex.def Info: LLsymb.pdf used on input line 612.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLsymb.pdf Graphic file (type pdf)
- <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 594.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLsymb.pdf Graphic file (type pdf)
- <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 594.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 594.
+Package pdftex.def Info: LLsymb.pdf used on input line 612.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LLsymb.pdf Graphic file (type pdf)
+ <use LLsymb.pdf>
+Package pdftex.def Info: LLsymb.pdf used on input line 612.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: LLsymb.pdf Graphic file (type pdf)
+ <use LLsymb.pdf>
+Package pdftex.def Info: LLsymb.pdf used on input line 612.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 594.
+Package pdftex.def Info: B1symb.pdf used on input line 612.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 594.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 594.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 594.
+Package pdftex.def Info: B1symb.pdf used on input line 612.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 612.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 612.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: MR1symb.pdf Graphic file (type pdf)
  <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 596.
+Package pdftex.def Info: MR1symb.pdf used on input line 614.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: MR1symb.pdf Graphic file (type pdf)
- <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 596.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: MR1symb.pdf Graphic file (type pdf)
- <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 596.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: MR1symb.pdf Graphic file (type pdf)
 
 <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 596.
+Package pdftex.def Info: MR1symb.pdf used on input line 614.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: MR1symb.pdf Graphic file (type pdf)
+ <use MR1symb.pdf>
+Package pdftex.def Info: MR1symb.pdf used on input line 614.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: MR1symb.pdf Graphic file (type pdf)
+ <use MR1symb.pdf>
+Package pdftex.def Info: MR1symb.pdf used on input line 614.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: MR1symb.pdf Graphic file (type pdf)
  <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 597.
+Package pdftex.def Info: MR1symb.pdf used on input line 615.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: MR1symb.pdf Graphic file (type pdf)
- <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 597.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: MR1symb.pdf Graphic file (type pdf)
- <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 597.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: MR1symb.pdf Graphic file (type pdf)
 
 <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 597.
+Package pdftex.def Info: MR1symb.pdf used on input line 615.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: MR1symb.pdf Graphic file (type pdf)
+ <use MR1symb.pdf>
+Package pdftex.def Info: MR1symb.pdf used on input line 615.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: MR1symb.pdf Graphic file (type pdf)
+ <use MR1symb.pdf>
+Package pdftex.def Info: MR1symb.pdf used on input line 615.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 597.
+Package pdftex.def Info: LLsymb.pdf used on input line 615.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLsymb.pdf Graphic file (type pdf)
- <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 597.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLsymb.pdf Graphic file (type pdf)
- <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 597.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 597.
+Package pdftex.def Info: LLsymb.pdf used on input line 615.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LLsymb.pdf Graphic file (type pdf)
+ <use LLsymb.pdf>
+Package pdftex.def Info: LLsymb.pdf used on input line 615.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: LLsymb.pdf Graphic file (type pdf)
+ <use LLsymb.pdf>
+Package pdftex.def Info: LLsymb.pdf used on input line 615.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 597.
+Package pdftex.def Info: B1symb.pdf used on input line 615.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 597.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 597.
-(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 597.
+Package pdftex.def Info: B1symb.pdf used on input line 615.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 615.
+(pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 615.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[22]
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 599.
+Package pdftex.def Info: LLsymb.pdf used on input line 617.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
+File: LLsymb.pdf Graphic file (type pdf)
+
+<use LLsymb.pdf>
+Package pdftex.def Info: LLsymb.pdf used on input line 617.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 599.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLsymb.pdf Graphic file (type pdf)
- <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 599.
+Package pdftex.def Info: LLsymb.pdf used on input line 617.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 599.
+Package pdftex.def Info: LLsymb.pdf used on input line 617.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: RLsymb.pdf Graphic file (type pdf)
+ <use RLsymb.pdf>
+Package pdftex.def Info: RLsymb.pdf used on input line 617.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 599.
+Package pdftex.def Info: RLsymb.pdf used on input line 617.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 599.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: RLsymb.pdf Graphic file (type pdf)
- <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 599.
+Package pdftex.def Info: RLsymb.pdf used on input line 617.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 599.
+Package pdftex.def Info: RLsymb.pdf used on input line 617.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: LLsymb.pdf Graphic file (type pdf)
+ <use LLsymb.pdf>
+Package pdftex.def Info: LLsymb.pdf used on input line 619.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 601.
+Package pdftex.def Info: LLsymb.pdf used on input line 619.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 601.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLsymb.pdf Graphic file (type pdf)
- <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 601.
+Package pdftex.def Info: LLsymb.pdf used on input line 619.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 601.
+Package pdftex.def Info: LLsymb.pdf used on input line 619.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: LLsymb.pdf Graphic file (type pdf)
+ <use LLsymb.pdf>
+Package pdftex.def Info: LLsymb.pdf used on input line 620.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
 
 <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 602.
+Package pdftex.def Info: LLsymb.pdf used on input line 620.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 602.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: LLsymb.pdf Graphic file (type pdf)
- <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 602.
+Package pdftex.def Info: LLsymb.pdf used on input line 620.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: LLsymb.pdf Graphic file (type pdf)
  <use LLsymb.pdf>
-Package pdftex.def Info: LLsymb.pdf used on input line 602.
+Package pdftex.def Info: LLsymb.pdf used on input line 620.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: B2symb.pdf Graphic file (type pdf)
+ <use B2symb.pdf>
+Package pdftex.def Info: B2symb.pdf used on input line 620.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B2symb.pdf Graphic file (type pdf)
 
 <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 602.
+Package pdftex.def Info: B2symb.pdf used on input line 620.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 602.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B2symb.pdf Graphic file (type pdf)
- <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 602.
+Package pdftex.def Info: B2symb.pdf used on input line 620.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 602.
+Package pdftex.def Info: B2symb.pdf used on input line 620.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 620.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 602.
+Package pdftex.def Info: B1symb.pdf used on input line 620.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 602.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 602.
+Package pdftex.def Info: B1symb.pdf used on input line 620.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 602.
+Package pdftex.def Info: B1symb.pdf used on input line 620.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: ML1symb.pdf Graphic file (type pdf)
+ <use ML1symb.pdf>
+Package pdftex.def Info: ML1symb.pdf used on input line 621.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ML1symb.pdf Graphic file (type pdf)
 
 <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 603.
+Package pdftex.def Info: ML1symb.pdf used on input line 621.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ML1symb.pdf Graphic file (type pdf)
  <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 603.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML1symb.pdf Graphic file (type pdf)
- <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 603.
+Package pdftex.def Info: ML1symb.pdf used on input line 621.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ML1symb.pdf Graphic file (type pdf)
  <use ML1symb.pdf>
-Package pdftex.def Info: ML1symb.pdf used on input line 603.
+Package pdftex.def Info: ML1symb.pdf used on input line 621.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: MR2symb.pdf Graphic file (type pdf)
+ <use MR2symb.pdf>
+Package pdftex.def Info: MR2symb.pdf used on input line 621.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: MR2symb.pdf Graphic file (type pdf)
 
 <use MR2symb.pdf>
-Package pdftex.def Info: MR2symb.pdf used on input line 603.
+Package pdftex.def Info: MR2symb.pdf used on input line 621.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: MR2symb.pdf Graphic file (type pdf)
  <use MR2symb.pdf>
-Package pdftex.def Info: MR2symb.pdf used on input line 603.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: MR2symb.pdf Graphic file (type pdf)
- <use MR2symb.pdf>
-Package pdftex.def Info: MR2symb.pdf used on input line 603.
+Package pdftex.def Info: MR2symb.pdf used on input line 621.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: MR2symb.pdf Graphic file (type pdf)
  <use MR2symb.pdf>
-Package pdftex.def Info: MR2symb.pdf used on input line 603.
+Package pdftex.def Info: MR2symb.pdf used on input line 621.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: RLsymb.pdf Graphic file (type pdf)
+ <use RLsymb.pdf>
+Package pdftex.def Info: RLsymb.pdf used on input line 622.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 604.
+Package pdftex.def Info: RLsymb.pdf used on input line 622.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 604.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: RLsymb.pdf Graphic file (type pdf)
- <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 604.
+Package pdftex.def Info: RLsymb.pdf used on input line 622.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 604.
+Package pdftex.def Info: RLsymb.pdf used on input line 622.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: RLsymb.pdf Graphic file (type pdf)
+ <use RLsymb.pdf>
+Package pdftex.def Info: RLsymb.pdf used on input line 623.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
 
 <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 605.
+Package pdftex.def Info: RLsymb.pdf used on input line 623.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 605.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: RLsymb.pdf Graphic file (type pdf)
- <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 605.
+Package pdftex.def Info: RLsymb.pdf used on input line 623.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: RLsymb.pdf Graphic file (type pdf)
  <use RLsymb.pdf>
-Package pdftex.def Info: RLsymb.pdf used on input line 605.
+Package pdftex.def Info: RLsymb.pdf used on input line 623.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: B1symb.pdf Graphic file (type pdf)
+ <use B1symb.pdf>
+Package pdftex.def Info: B1symb.pdf used on input line 623.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
 
 <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 605.
+Package pdftex.def Info: B1symb.pdf used on input line 623.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 605.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B1symb.pdf Graphic file (type pdf)
- <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 605.
+Package pdftex.def Info: B1symb.pdf used on input line 623.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B1symb.pdf Graphic file (type pdf)
  <use B1symb.pdf>
-Package pdftex.def Info: B1symb.pdf used on input line 605.
+Package pdftex.def Info: B1symb.pdf used on input line 623.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: B2symb.pdf Graphic file (type pdf)
+ <use B2symb.pdf>
+Package pdftex.def Info: B2symb.pdf used on input line 623.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B2symb.pdf Graphic file (type pdf)
 
 <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 605.
+Package pdftex.def Info: B2symb.pdf used on input line 623.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 605.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: B2symb.pdf Graphic file (type pdf)
- <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 605.
+Package pdftex.def Info: B2symb.pdf used on input line 623.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: B2symb.pdf Graphic file (type pdf)
  <use B2symb.pdf>
-Package pdftex.def Info: B2symb.pdf used on input line 605.
+Package pdftex.def Info: B2symb.pdf used on input line 623.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: MR1symb.pdf Graphic file (type pdf)
+ <use MR1symb.pdf>
+Package pdftex.def Info: MR1symb.pdf used on input line 624.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: MR1symb.pdf Graphic file (type pdf)
 
 <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 606.
+Package pdftex.def Info: MR1symb.pdf used on input line 624.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: MR1symb.pdf Graphic file (type pdf)
  <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 606.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: MR1symb.pdf Graphic file (type pdf)
- <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 606.
+Package pdftex.def Info: MR1symb.pdf used on input line 624.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: MR1symb.pdf Graphic file (type pdf)
  <use MR1symb.pdf>
-Package pdftex.def Info: MR1symb.pdf used on input line 606.
+Package pdftex.def Info: MR1symb.pdf used on input line 624.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
+File: ML2symb.pdf Graphic file (type pdf)
+ <use ML2symb.pdf>
+Package pdftex.def Info: ML2symb.pdf used on input line 624.
+(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ML2symb.pdf Graphic file (type pdf)
 
 <use ML2symb.pdf>
-Package pdftex.def Info: ML2symb.pdf used on input line 606.
+Package pdftex.def Info: ML2symb.pdf used on input line 624.
 (pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
 File: ML2symb.pdf Graphic file (type pdf)
  <use ML2symb.pdf>
-Package pdftex.def Info: ML2symb.pdf used on input line 606.
-(pdftex.def)             Requested size: 30.13873pt x 18.08334pt.
-File: ML2symb.pdf Graphic file (type pdf)
- <use ML2symb.pdf>
-Package pdftex.def Info: ML2symb.pdf used on input line 606.
+Package pdftex.def Info: ML2symb.pdf used on input line 624.
 (pdftex.def)             Requested size: 20.09239pt x 12.05554pt.
 File: ML2symb.pdf Graphic file (type pdf)
  <use ML2symb.pdf>
-Package pdftex.def Info: ML2symb.pdf used on input line 606.
+Package pdftex.def Info: ML2symb.pdf used on input line 624.
 (pdftex.def)             Requested size: 15.06937pt x 9.0416pt.
 
-Overfull \hbox (43.86064pt too wide) detected at line 607
+Overfull \hbox (3.85602pt too wide) detected at line 625
 [][][] []
  []
 
+[21]
 
-LaTeX Warning: Reference `chapter:desitter' on page 23 undefined on input line 
-611.
-
-
-LaTeX Warning: Citation `Copeland:1988tr' on page 23 undefined on input line 61
-3.
+LaTeX Warning: Reference `chapter:desitter' on page 22 undefined on input line 
+629.
 
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+LaTeX Warning: Citation `Copeland:1988tr' on page 22 undefined on input line 63
+1.
 
-[23]
 
-LaTeX Warning: Citation `Copeland:1988tr' on page 24 undefined on input line 61
-9.
+LaTeX Warning: Citation `Copeland:1988tr' on page 22 undefined on input line 63
+7.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 622.
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[24]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 622.
+[22]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 640.
+ [23]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 640.
  (./trousers.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 622.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 622.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 640.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 640.
 Package rerunfilecheck Info: File `trousers.out' has not changed.
 (rerunfilecheck)             Checksum: B21F2C2CA95870591B3B7DA718A92AA6;1017.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 622.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 640.
  ) 
 Here is how much of TeX's memory you used:
- 9592 strings out of 493117
- 141628 string characters out of 6135433
- 249556 words of memory out of 5000000
- 12776 multiletter control sequences out of 15000+600000
- 17607 words of font info for 68 fonts, out of 8000000 for 9000
+ 9910 strings out of 493117
+ 146714 string characters out of 6135433
+ 258107 words of memory out of 5000000
+ 13094 multiletter control sequences out of 15000+600000
+ 19318 words of font info for 75 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 37i,17n,75p,1771b,570s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,17n,75p,1771b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -3332,22 +3206,23 @@ sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
 al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
 /texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
-14/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2014/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2014/texmf-
-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/local/texlive/2014/texm
-f-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/
-texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on trousers.pdf (24 pages, 710385 bytes).
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on trousers.pdf (23 pages, 717737 bytes).
 PDF statistics:
- 581 PDF objects out of 1000 (max. 8388607)
- 469 compressed objects within 5 object streams
+ 582 PDF objects out of 1000 (max. 8388607)
+ 470 compressed objects within 5 object streams
  86 named destinations out of 1000 (max. 500000)
  347 words of extra memory for PDF output out of 10000 (max. 10000000)
 

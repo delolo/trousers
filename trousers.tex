@@ -14,6 +14,11 @@
 \usepackage[toc,page]{appendix}
 \usepackage{breakurl}
 
+
+%%%%%%%%%%%% LAYOUT %%%%%%%%%%%%%%%
+\usepackage{geometry}
+%%%%%%%%%%%% LAYOUT %%%%%%%%%%%%%%%
+
 %%%%%%%%% HYPERREF COLORS %%%%%%%%%%%%
 \usepackage{xcolor}
 \definecolor{warmblue}{RGB}{66,106,181}
@@ -23,22 +28,25 @@ linkcolor=warmblue,
 urlcolor=warmblue,
 citecolor=warmblue
 }
+%%%%%%%%% HYPERREF COLORS %%%%%%%%%%%%
+
 
 %%%%%%%%%% HYPHENATION %%%%%%%%%%%%%%
 \usepackage[british]{babel}
 \hyphenation{di-men-sio-nal}
 %%%%%%%%%% HYPHENATION %%%%%%%%%%%%%%
 
+
 %%%%%%%%%%%% HEADERS %%%%%%%%%%%%%%%
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\fancyhead[R]{\nouppercase\rightmark} % 1. sectionname
-\fancyfoot[C]{\thepage}
-\fancypagestyle{plain}{%
-  \fancyhf{}%
-  \renewcommand{\headrulewidth}{0pt}%
-  }
+%    \usepackage{fancyhdr}
+%    \pagestyle{fancy}
+%    \fancyhf{}
+%    \fancyhead[R]{\nouppercase\rightmark} % 1. sectionname
+%    \fancyfoot[C]{\thepage}
+%    \fancypagestyle{plain}{%
+%      \fancyhf{}%
+%      \renewcommand{\headrulewidth}{0pt}%
+%      }
 %%%%%%%%%%%% HEADERS %%%%%%%%%%%%%%%
 
 %%%%%%%%%%% TROUSERS SYMBOLS %%%%%%%%%%
@@ -134,9 +142,13 @@ citecolor=warmblue
 %\newcommand{\colrulespace}{\noalign{\smallskip}\colrule\noalign{\smallskip}}
 %%%%%%%%%% ABBREVIATED COMMANDS %%%%%%%%%%
 
+\title{SJ state on the Trousers}
+
 \begin{document}
 
-So far, the spacetimes we have considered have all been globally hyperbolic. Global hyperbolicity is an important property in the usual construction of quantum field theory in flat and curved spacetime, since it guarantees that linear hyperbolic equations such as the Klein-Gordon equation admit a well-posed initial value problem and have well defined global advanced and retarded propagators~\cite{leray1953hyperbolic,hawking1975large}. Yet there are situations in which one may like to consider spacetimes that fall short of the criterion. Anti de Sitter space is perhaps the most famous example of a spacetime that is not globally hyperbolic and yet of tremendous interest in the context of the gauge-gravity (AdS/CFT) correspondence~\cite{Avis:1977yn}. Another case, the one that we will pay attention to in this chapter, is that of spacetimes experiencing topology-change. Such spacetimes cannot be globally hyperbolic: a globally hyperbolic Lorentzian manifold must be homeomorphic to $\Sigma\times\mathbb R$ ~\cite{Geroch:1970uw} and hence its spatial topology frozen in time.
+\maketitle
+
+Global hyperbolicity is an important property in the usual construction of quantum field theory in flat and curved spacetime, since it guarantees that linear hyperbolic equations such as the Klein-Gordon equation admit a well-posed initial value problem and have well defined global advanced and retarded propagators~\cite{leray1953hyperbolic,hawking1975large}. Yet there are situations in which one may like to consider spacetimes that fall short of the criterion. Anti de Sitter space is perhaps the most famous example of a spacetime that is not globally hyperbolic and yet of tremendous interest in the context of the gauge-gravity (AdS/CFT) correspondence~\cite{Avis:1977yn}. Another case, the one that we will pay attention to in this chapter, is that of spacetimes experiencing topology-change. Such spacetimes cannot be globally hyperbolic: a globally hyperbolic Lorentzian manifold must be homeomorphic to $\Sigma\times\mathbb R$ ~\cite{Geroch:1970uw} and hence its spatial topology frozen in time.
 
 At the level of the manifold topology itself, a frozen spatial topology is certainly not forced upon us. In fact, in $D=3+1$ and lower dimensions, given $\emph{any}$ two initial and final topologically distinct $(D-1)$-dimensional (compact) manifolds $V_i$ and $V_f$, there always exists a (compact) $D$-dimensional manifold $M$ that interpolates between the two.\footnote{The manifold $M$ with $\partial M = V_i \sqcup V_f$ is known as a topological cobordism.} When attempting to put a Lorentzian metric on $M$, a theorem by Geroch~\cite{Geroch:1967fs} tells us that the metric must contain closed timelike curves. If we want to avoid the %latter, and the 
 pathologies that go along with closed timelike curves~\cite{Sorkin:1997gi,thorne1993closed}, we are still left with the alternative of considering metrics that are Lorentzian \emph{almost everywhere} (degenerating at a finite set of isolated points) and which retain a well-defined causal structure~\cite{Sorkin:1989ea}, or, going further, considering metrics with signature change~\cite{Dray:1991zz} or Euclidean signature~\cite{Gibbons:2011dh}.
@@ -456,7 +468,9 @@ and
 v^1_k(x)&=e^{-ikv}\FPVone(x) + (1-p)\left[\LL(x)-\RL(x)\right]\\
 v^2_k(x)&=e^{-ikv}\FPVtwo(x) + (1-p)\left[\LL(x)-\RL(x)\right].
 \eea
-To find the evolution of plane waves in the \emph{whole} trunk it suffices to take linear combinations of the above modes. Due to the periodicity on the actual trousers, the modes on the pair of diamonds corresponding to the natural ``right-moving plane waves in the trunk'' with periodic boundary conditions take the form $u_k^1(x)+(-1)^n u_k^2(x)$ with $k=\sqrt{2}n\pi/\lambda$ in our conventions (the factor of $\sqrt2$ here comes from the factor of $\sqrt2$ in our definition of the lightcone coordinates). For even $n$, the constant terms in~\eqref{eq:u1u2} cancel. For odd $n$, they add up, leading to opposite constant terms $\pm 2p$ in the causal futures of the singularity pertaining to the left/right legs. Similar statements apply to left-moving incoming modes. Interestingly, this corresponds precisely to the one-parameter family of propagation laws found in~\cite{Copeland:1988tr}, which the authors arrived at by demanding the conservation of inner products under the evolution past the singularity (our parameter $p$ is related to their parameter $A$ via $p=\frac12(1+A)$).
+To find the evolution of plane waves in the \emph{whole} trunk it suffices to take linear combinations of the above modes. Due to the periodicity on the actual trousers, the modes on the pair of diamonds corresponding to the natural ``right-moving plane waves in the trunk'' with periodic boundary conditions take the form $u_k^1(x)+(-1)^n u_k^2(x)$ with $k=\sqrt{2}n\pi/\lambda$ in our conventions (the factor of $\sqrt2$ here comes from the factor of $\sqrt2$ in our definition of the lightcone coordinates). For even $n$, the constant terms in~\eqref{eq:u1u2} cancel. For odd $n$, they add up, leading to opposite constant terms $\pm 2p$ in the causal futures of the singularity pertaining to the left/right legs. Similar statements apply to left-moving incoming modes. Interestingly, this corresponds precisely to the one-parameter family of propagation laws found in~\cite{Copeland:1988tr}, which the authors arrived at by demanding the conservation of inner products under the evolution past the singularity (our parameter $p$ is related to their parameter $A$ via $p=\frac12(1+A)$).\\
+
+TODO: backward propagated waves.
  
 \section{Eigenmodes of the Pauli-Jordan function}
 The one-parameter family of propagators derived in the previous section provides us with a one-parameter family of Pauli-Jordan functions $\Delta_p = G_{R,p} - G_{A,p}$. It is not very illuminating to write down its functional form; for an example in pictorial form see Figure~\ref{fig:pj-on-pod}. When both arguments are outside the domain of influence of the crotch, $\Delta$ takes on its usual Minkowski form. Our aim is now to find the positive eigenfunctions of $i\Delta$ that satisfy $i\Delta(f) = \lambda f$ for $\lambda>0$.
@@ -578,7 +592,11 @@ where $\overline{\epsilon}(kL)=\epsilon(-kL)=\frac12\left(1-e^{ikL}\right)$. For
 We can see that in general, convolution with $i\Delta$ spreads the support of a restricted plane wave onto other regions of the pair of diamonds. A special case is $\epsilon(kL)=0$, which corresponds to $kL=2n\pi$ ($n\in\mathbb N$), for which all but the first lines in the equations above vanish. However, for any single mode there is still an extra constant term on the right hand side and so no single mode will be an eigenfunction of $i\Delta$.
 
 \subsection{Ordinary plane waves revisited}
-Given the above results it is easy to find the action of $i\Delta$ on ordinary plane waves via linear combinations of the form $u_k(x)=u^1_k(x)+u^2_k(x)=U^{\LRDone}_k(x)+U^{\ULDone}_k(x) +U^{\LRDtwo}_k(x) +U^{\ULDtwo}_k(x)$. We find that the action of $i\Delta$ on these ordinary plane waves is precisely the same as that for the single diamond if the length scale $L$ on the single diamond is replaced by its direct counterpart $L$ on the pair of diamonds --- the dependence on $p$ drops out. Hence, despite the modified form of the Pauli-Jordan function $i\Delta_p$ on the pair of diamonds it turns out that these modes --- when extended onto both diamonds --- are eigenmodes of $i\Delta_p$, for any value of $p$. Notice that for even $n$, these modes can be viewed as forward-propagated modes on the full trousers (with $L$ equal to $\lambda$), but for odd $n$, they do \emph{not} correspond to such modes. Now, we know from our analysis of the single diamond that the eigenvalues of these modes sum to $2L^4$! Hence we are short by an amount $2L^4\left[1-p(1-p)\right]$ from the total derived in~\eqref{eq:hsnormpod}. We must keep looking.
+Given the above results it is easy to find the action of $i\Delta$ on ordinary plane waves via linear combinations of the form 
+\be
+u_k(x)=u^1_k(x)+u^2_k(x)=U^{\LRDone}_k(x)+U^{\ULDone}_k(x) +U^{\LRDtwo}_k(x) +U^{\ULDtwo}_k(x).
+\ee
+We find that the action of $i\Delta$ on these ordinary plane waves is precisely the same as that for the single diamond if the length scale $L$ on the single diamond is replaced by its direct counterpart $L$ on the pair of diamonds --- the dependence on $p$ drops out. Hence, despite the modified form of the Pauli-Jordan function $i\Delta_p$ on the pair of diamonds it turns out that these modes --- when extended onto both diamonds --- are eigenmodes of $i\Delta_p$, for any value of $p$. Notice that for even $n$, these modes can be viewed as forward-propagated modes on the full trousers (with $L$ equal to $\lambda$), but for odd $n$, they do \emph{not} correspond to such modes. Now, we know from our analysis of the single diamond that the eigenvalues of these modes sum to $2L^4$! Hence we are short by an amount $2L^4\left[1-p(1-p)\right]$ from the total derived in~\eqref{eq:hsnormpod}. We must keep looking.
 
 \subsection{Restricted constant functions}\label{sec:constantmodes}
 One of the problems with the general solutions above is that $i\Delta$ acting on a restricted plane wave gives rise to terms that are constant or linear in $u$ or $v$, on regions outside the support of the original function. Perhaps we may hope to find eigenmodes by including constant functions defined on subregions of the pair of diamonds. After all, the single diamond SJ modes included a constant part as well. Note that constant functions can be denoted as multiples of the indicator function. We obtain for $\Bone$:
